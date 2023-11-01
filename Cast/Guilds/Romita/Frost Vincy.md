@@ -1,0 +1,1 @@
+Frost Vincy è un ex-[[Glossary/Quester|quester]] atleta dei [[Cast/Guilds/Romita/Romita|Romita]].

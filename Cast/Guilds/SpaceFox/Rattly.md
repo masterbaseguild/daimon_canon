@@ -1,0 +1,1 @@
+Rattly è un ex-[[Glossary/Quester|quester]] di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].

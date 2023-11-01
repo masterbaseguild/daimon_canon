@@ -1,0 +1,1 @@
+Vaximo è un [[Glossary/Quester|quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].

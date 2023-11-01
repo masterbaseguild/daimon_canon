@@ -1,0 +1,1 @@
+Crazy è un [[Glossary/Quester|quester]] atleta della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]] e dei [[Cast/Guilds/Blue Owls/Blue Owls|Gufi Blu]].

@@ -1,0 +1,1 @@
+Grosta è una [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]]. E' la cugina di [[Cast/Guilds/MasterBase/Entity|Entity]].

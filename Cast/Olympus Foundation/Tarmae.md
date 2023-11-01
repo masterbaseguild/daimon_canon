@@ -1,0 +1,1 @@
+Tarmae è un ingegnere della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].

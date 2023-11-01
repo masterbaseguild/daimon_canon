@@ -1,0 +1,1 @@
+Andreas è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ritiratosi come atleta.

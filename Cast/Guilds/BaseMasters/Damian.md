@@ -1,0 +1,1 @@
+Damian è un [[Glossary/Quester|quester]] dei [[Cast/Guilds/BaseMasters/BaseMasters|BaseMasters]].

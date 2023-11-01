@@ -1,0 +1,1 @@
+Mr. Alex è stato un [[Glossary/Quester|quester]] ingegnere e atleta della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

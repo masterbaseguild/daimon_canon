@@ -1,0 +1,1 @@
+Shinya è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-leader di [[Cast/Guilds/New Group|New Group]].

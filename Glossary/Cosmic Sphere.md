@@ -1,0 +1,1 @@
+Una sfera cosmica è un sottoinsieme dell'universo conosciuto i cui componenti sono in diretta comunicazione tra di loro.

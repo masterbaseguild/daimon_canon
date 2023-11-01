@@ -1,0 +1,1 @@
+Proximus è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

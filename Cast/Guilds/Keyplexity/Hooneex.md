@@ -1,0 +1,1 @@
+Hooneex è un [[Glossary/Quester|quester]] di [[Cast/Guilds/Keyplexity/Keyplexity|Keyplexity]], nonché fondatore, ed ex-membro della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

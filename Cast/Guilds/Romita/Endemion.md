@@ -1,0 +1,1 @@
+Endemion è ex-[[Glossary/Quester|quester]] atleta e ingegnere dei [[Cast/Guilds/Romita/Romita|Romita]].

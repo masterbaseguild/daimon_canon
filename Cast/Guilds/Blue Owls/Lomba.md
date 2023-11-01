@@ -1,0 +1,1 @@
+Lomba è un [[Glossary/Quester|quester]] atleta dei [[Cast/Guilds/Blue Owls/Blue Owls|Gufi Blu]].

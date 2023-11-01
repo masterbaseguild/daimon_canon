@@ -1,0 +1,1 @@
+Lignum Nobili è la [[Glossary/StarBase|starbase]] di proprietà dell'omonima [[Cast/Guilds/Lignum Nobili/Lignum Nobili|gilda]], di manifattura [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/Planet Earth|terrestre]] e situata nella [[Map/Alpha Sphere/Alpha Sphere|sfera Alpha]].

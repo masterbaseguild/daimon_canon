@@ -1,0 +1,1 @@
+Il quartier generale di Olympus, situato a [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/Rome/Rome|Roma]], è la sede principale della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].

@@ -1,0 +1,1 @@
+Revoost è un ex-[[Glossary/Quester|quester]] di [[Cast/Guilds/Navirad/Navirad|Navirad]].

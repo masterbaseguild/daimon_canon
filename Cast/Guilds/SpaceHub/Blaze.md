@@ -1,0 +1,1 @@
+Blaze è un ex-[[Glossary/Quester|quester]] della [[Cast/Guilds/SpaceHub/SpaceHub|SpaceHub]], nonché fondatore, ed è un ex-membro della [[Cast/Guilds/World Order/World Order|World Order]].
