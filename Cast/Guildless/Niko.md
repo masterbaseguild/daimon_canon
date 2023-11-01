@@ -1,0 +1,1 @@
+Niko è un ex-[[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-fondatore della [[Cast/Guilds/Steeleaf/Steeleaf|Steeleaf]].

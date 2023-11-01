@@ -1,0 +1,1 @@
+Peridot è un membro della [[Cast/Rose Revamp/Rose Revamp|Rose Revamp]].

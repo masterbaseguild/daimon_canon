@@ -1,0 +1,1 @@
+Nekta Franky è un membro della [[Cast/Franky Family/Franky Family|famiglia Franky]] e membro fondatore della [[Cast/Rose Revamp/Rose Revamp|Rose Revamp]].

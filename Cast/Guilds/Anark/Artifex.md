@@ -1,0 +1,1 @@
+Artifex è stato un [[quester]] della [[Cast/Guilds/Anark/Anark|Anark]].

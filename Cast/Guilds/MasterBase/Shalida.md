@@ -1,0 +1,1 @@
+Shalida è un [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-leader della [[Cast/Guilds/SoS|SoS]].

@@ -1,0 +1,1 @@
+Una starbase è una stazione spaziale mobile parzialmente o completamente autosufficiente.

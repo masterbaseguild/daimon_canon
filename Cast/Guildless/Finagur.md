@@ -1,0 +1,1 @@
+Finagur è un ex-[[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

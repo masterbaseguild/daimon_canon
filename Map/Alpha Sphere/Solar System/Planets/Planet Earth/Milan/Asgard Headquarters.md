@@ -1,0 +1,1 @@
+Il quartier generale di Asgard, situato a [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/Milan/Milan|Milano]], è la sede principale della [[Cast/Asgard Foundation/Asgard Foundation|fondazione Asgard]].

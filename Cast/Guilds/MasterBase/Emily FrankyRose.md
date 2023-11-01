@@ -1,0 +1,1 @@
+Emily è una [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]], e membro della [[Cast/Rose Family|famiglia Rose]]. E' la cugina di [[Cast/Guilds/MasterBase/Garo FrankyRose|Garo FrankyRose]].

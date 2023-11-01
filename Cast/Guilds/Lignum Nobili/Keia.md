@@ -1,0 +1,1 @@
+Teigu è una [[quester]] atleta dei [[Cast/Guilds/Lignum Nobili/Lignum Nobili|Lignum Nobili]], nonchè attuale leader.
