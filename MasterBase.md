@@ -1,0 +1,1 @@
+La MasterBase è la starbase gestita dalla omonima gilda.
