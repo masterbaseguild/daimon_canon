@@ -22,4 +22,4 @@ jobs:
 
     - name: Main
       run: |
-        aws s3 sync ./ s3://projectdaimon/articles --delete
+        aws s3 sync ./ s3://projectdaimon/articles --delete --exclude ".git/*" --exclude ".github/*" --exclude "README.md" --exclude ".gitignore"
