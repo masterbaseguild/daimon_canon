@@ -1,0 +1,1 @@
+La MasterBase è una gilda.

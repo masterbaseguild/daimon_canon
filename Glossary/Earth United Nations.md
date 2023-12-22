@@ -1,0 +1,1 @@
+Le Earth United Nations (o EUN) sono il massimo corpo amministrativo del popolo terrestre.
