@@ -1,0 +1,1 @@
+La MasterBase è la starbase di proprietà dell'omonima gilda, di manifattura terrestre.

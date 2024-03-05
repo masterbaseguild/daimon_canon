@@ -1,0 +1,1 @@
+La sfera Alpha è la sfera cosmica contenente, tra gli altri, il pianeta terra.

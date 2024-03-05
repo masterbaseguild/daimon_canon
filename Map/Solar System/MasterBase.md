@@ -1,1 +1,0 @@
-La MasterBase è la starbase di proprietà dell'omonima gilda, ed è al momento temporaneamente stazionata nel sistema solare.

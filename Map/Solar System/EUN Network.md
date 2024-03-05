@@ -1,3 +1,0 @@
-Rete commerciale/militare gestita direttamente dalla EUN, spande tutto il sistema solare, e conta nodi situati su quasi tutti i pianeti.
-
-Ogni nodo è una colonia autosufficiente, dedicata all'estrazione di risorse dal relativo pianeta e provvista di infrastrutture per le risorse essenziali (cibo, acqua, ossigeno, calore); nel caso di pianeti gassosi, come Nettuno, si tratta di [starbases](StarBase.md) orbitanti intorno al corpo celeste, mentre nel caso di pianeti solidi, come Marte, si tratta di vere e proprie città erette sul suolo del pianeta stesso.

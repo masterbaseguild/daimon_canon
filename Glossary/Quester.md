@@ -1,0 +1,1 @@
+Un quester è un avventuriero, praticante di un nuovo stile di vita nato verso la fine del XX° secolo e esploso in popolarità agli inizi del XXI° secolo.
