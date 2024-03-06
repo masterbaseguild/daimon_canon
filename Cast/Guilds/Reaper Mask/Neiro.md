@@ -1,0 +1,1 @@
+Neiro è un ex-[[quester]] ingegnere della [[Reaper Mask]].

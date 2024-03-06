@@ -1,0 +1,1 @@
+Cinder è un ex-[[quester]] della [[Spacer]], nonché fondatore, ed è un ex-membro della [[World Order]].

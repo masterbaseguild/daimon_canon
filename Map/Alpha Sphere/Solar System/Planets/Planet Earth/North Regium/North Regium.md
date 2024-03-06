@@ -1,0 +1,1 @@
+Città italiana. E' gemellata con [[South Regium]], alla quale è connessa tramite un bullet train sotterraneo.

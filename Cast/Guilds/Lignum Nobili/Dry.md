@@ -1,0 +1,1 @@
+Dry è un [[quester]] dei [[Lignum Nobili]], nonché fondatore ed ex-leader.

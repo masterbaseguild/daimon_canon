@@ -1,0 +1,1 @@
+Samset è un [[quester]] della [[MasterBase]].

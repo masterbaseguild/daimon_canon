@@ -1,0 +1,1 @@
+Aledge è un [[Quester]] della [[MasterBase]], ed ex-leader fondatore di [[SpaceFox]].

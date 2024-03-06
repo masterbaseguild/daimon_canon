@@ -1,1 +1,0 @@
-La sfera Alpha ospita numerose starbase, ma a causa della natura nomadica delle gilde che le posseggono, e grazie alle elevatissime velocità che questi conglomerati possono raggiungere, è difficile stabilire con precisione la posizione di ciascuna di esse in un dato momento.

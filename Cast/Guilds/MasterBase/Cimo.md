@@ -1,0 +1,1 @@
+Cimo è un [[quester]] ingegnere della [[MasterBase]] e dei [[Blue Owls|Gufi Blu]], ritiratosi come atleta.

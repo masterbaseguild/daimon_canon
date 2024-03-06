@@ -1,0 +1,1 @@
+Nephasto è un [[quester]] ricercatore della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]].

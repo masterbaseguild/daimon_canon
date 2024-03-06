@@ -1,0 +1,1 @@
+[[Quester]] leader della [[Olympus Foundation|fondazione Olympus]].

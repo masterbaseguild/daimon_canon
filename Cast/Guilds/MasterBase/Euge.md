@@ -1,0 +1,1 @@
+Euge è un [[quester]] della [[MasterBase]], ritiratosi come ricercatore, ed ex-[[quester]] della [[Anark]].

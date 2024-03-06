@@ -1,0 +1,1 @@
+Black Ace è un ex-[[quester]] di [[Navirad]].

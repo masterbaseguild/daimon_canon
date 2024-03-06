@@ -1,0 +1,1 @@
+Chojiro è un [[quester]] della [[MasterBase]], ed ex-membro di [[SpaceFox]].

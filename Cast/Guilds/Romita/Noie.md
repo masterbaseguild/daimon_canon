@@ -1,0 +1,1 @@
+Noie è un ex-[[quester]] atleta dei [[Romita]].

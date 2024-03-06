@@ -1,0 +1,1 @@
+Ingegnere della [[Olympus Foundation|fondazione Olympus]].

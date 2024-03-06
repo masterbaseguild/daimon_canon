@@ -1,0 +1,1 @@
+Nick è stato un [[quester]] della [[CC3]], ed ex-membro della [[MasterBase]].

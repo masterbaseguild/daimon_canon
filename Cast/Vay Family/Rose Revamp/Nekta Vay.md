@@ -1,0 +1,1 @@
+Membro della [[Vay Family|famiglia Vay]] e membro fondatore della [[Rose Revamp]].

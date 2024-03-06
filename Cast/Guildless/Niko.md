@@ -1,0 +1,1 @@
+Niko è un ex-[[quester]] della [[MasterBase]].

@@ -1,0 +1,1 @@
+Rattly è un ex-[[quester]] di [[SpaceFox]].

@@ -1,0 +1,1 @@
+Black Mamba è un [[quester]] atleta dei [[Lignum Nobili]], ed ex-membro della [[MasterBase]].

@@ -1,1 +1,1 @@
-La MasterBase è una gilda di questers, proprietaria dell'omonima starbase.
+La MasterBase è una [[Guild|gilda]] di [[Quester|questers]], proprietaria dell'[[Cast/Guilds/MasterBase/MasterBase|omonima starbase]].

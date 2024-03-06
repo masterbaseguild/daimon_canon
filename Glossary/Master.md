@@ -1,0 +1,1 @@
+Un master è un [[quester]] membro della [[Guild|gilda]] [[MasterBase]].

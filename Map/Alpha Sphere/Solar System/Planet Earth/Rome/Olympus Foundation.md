@@ -1,1 +1,0 @@
-Sede principale della Fondazione Olympus.

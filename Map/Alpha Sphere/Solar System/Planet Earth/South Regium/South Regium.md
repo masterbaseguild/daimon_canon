@@ -1,1 +1,0 @@
-Città italiana. E' gemellata con North Regium, alla quale è connessa tramite un bullet train sotterraneo.

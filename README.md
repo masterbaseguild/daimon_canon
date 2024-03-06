@@ -12,7 +12,7 @@ L'obiettivo è di costruire un universo narrativo semi-open-source, al quale chi
 
 # Voglio mantenere segreti alcuni aspetti della mia fork per rivelarli in un secondo momento, come posso fare?
 
-In tal caso, è raccomandato clonare la fork e rendere privata la repository clonata; dopodichè, consigliamo di lavorare direttamente sulla copia, e pullare verso la fork soltanto il materiale che può essere rivelato attualmente. Tuttavia, consigliamo come prima cosa di contattare il team di revisione e fornirgli accesso alla copia, onde evitare spiacevoli sorprese dell'ultimo momento (ad esempio, una rivelazione non è coerente con il resto del canone)
+In tal caso, è raccomandato clonare la fork e rendere privata la repository clonata; dopodiché, consigliamo di lavorare direttamente sulla copia, e pullare verso la fork soltanto il materiale che può essere rivelato attualmente. Tuttavia, consigliamo come prima cosa di contattare il team di revisione e fornirgli accesso alla copia, onde evitare spiacevoli sorprese dell'ultimo momento (ad esempio, una rivelazione non è coerente con il resto del canone)
 
 # Come verrà sincronizzata la repository del canone con il materiale live?
 

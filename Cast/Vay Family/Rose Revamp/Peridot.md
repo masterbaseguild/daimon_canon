@@ -1,0 +1,1 @@
+Membro della [[Rose Revamp]].

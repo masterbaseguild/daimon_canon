@@ -1,0 +1,1 @@
+Red Raider è un ex-[[quester]] della [[MasterBase]].

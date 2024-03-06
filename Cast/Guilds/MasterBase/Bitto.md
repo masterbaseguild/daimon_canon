@@ -1,0 +1,1 @@
+Bitto è un [[quester]] ricercatore della [[MasterBase]].

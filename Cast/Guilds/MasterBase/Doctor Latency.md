@@ -1,0 +1,1 @@
+Doctor Latency è un [[quester]] ricercatore della [[MasterBase]].

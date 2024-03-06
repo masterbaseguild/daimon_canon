@@ -1,0 +1,1 @@
+Krutch è un [[quester]] della [[MasterBase]].

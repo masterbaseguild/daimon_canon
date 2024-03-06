@@ -1,0 +1,1 @@
+Kurymi è una [[quester]] della [[MasterBase]].

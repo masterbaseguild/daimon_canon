@@ -1,0 +1,1 @@
+Dave è un [[quester]] della [[MasterBase]].

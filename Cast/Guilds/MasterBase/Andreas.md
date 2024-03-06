@@ -1,0 +1,1 @@
+Andreas è un [[quester]] della [[MasterBase]], ritiratosi come atleta.

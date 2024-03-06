@@ -1,0 +1,1 @@
+Giancoz è un [[quester]] atleta dei [[Blue Owls|Gufi Blu]], ed ex-membro della [[MasterBase]].

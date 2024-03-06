@@ -1,0 +1,1 @@
+Gastic Nox è un ex-[[quester]] di [[Navirad]]. Fece parte della [[MasterBase]] per un periodo.
