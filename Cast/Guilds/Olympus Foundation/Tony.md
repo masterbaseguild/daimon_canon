@@ -1,0 +1,1 @@
+Tony è stato un [[quester]] atleta della [[Olympus Foundation|fondazione Olympus]].

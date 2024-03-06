@@ -1,1 +1,1 @@
-Colonia [[Planet Earth|terrestre]] della [[MasterBase]].
+La MasterHall è la colonia [[Planet Earth|terrestre]] della [[MasterBase]].

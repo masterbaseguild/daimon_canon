@@ -1,1 +1,1 @@
-Sede principale della [[Asgard Foundation|Fondazione Asgard]].
+Il quartier generale di Asgard è la sede principale della [[Asgard Foundation|fondazione Asgard]].

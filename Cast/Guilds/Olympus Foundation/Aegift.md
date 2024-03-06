@@ -1,0 +1,1 @@
+Aegift è un [[quester]] della [[Olympus Foundation|fondazione Olympus]], fece parte della [[MasterBase]] per un periodo, in forma di osservatore della [[Olympus Foundation|fondazione]].

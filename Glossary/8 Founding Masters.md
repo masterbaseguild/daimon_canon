@@ -6,5 +6,5 @@ Gli 8 masters fondatori sono gli originari otto membri della MasterBase.
 - [[Nephasto]]
 - [[Garo Vay]]
 - [[Emily Vay]]
-- [[Mr. Jey]]
+- [[Mister Jey]]
 - [[Tecmov]]

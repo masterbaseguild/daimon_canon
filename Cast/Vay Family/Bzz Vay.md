@@ -1,1 +1,1 @@
-Membro della [[Vay Family|famiglia Vay]].
+Bzz Vay è stato un membro della [[Vay Family|famiglia Vay]].

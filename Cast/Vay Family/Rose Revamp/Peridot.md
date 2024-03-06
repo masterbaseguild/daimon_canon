@@ -1,1 +1,1 @@
-Membro della [[Rose Revamp]].
+Peridot è un membro della [[Rose Revamp]].

@@ -1,0 +1,1 @@
+Blu Wind è un [[quester]] della [[Xadrium Corporation]].

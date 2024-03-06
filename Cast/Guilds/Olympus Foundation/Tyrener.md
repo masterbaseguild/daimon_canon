@@ -1,0 +1,1 @@
+Tyrener è un [[quester]] della [[Olympus Foundation|fondazione Olympus]].

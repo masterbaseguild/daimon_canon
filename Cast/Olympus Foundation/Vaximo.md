@@ -1,1 +1,0 @@
-[[Quester]] della [[Olympus Foundation|fondazione Olympus]].

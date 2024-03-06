@@ -1,1 +1,0 @@
-[[Quester]] della [[Xadrium Corporation]].

@@ -1,1 +1,1 @@
-Città capitale italiana.
+Roma è la città capitale italiana.

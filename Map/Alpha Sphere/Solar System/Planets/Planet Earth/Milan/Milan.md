@@ -1,1 +1,1 @@
-Città italiana.
+Milano è una città italiana.

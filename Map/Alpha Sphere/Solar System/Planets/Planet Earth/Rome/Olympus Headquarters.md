@@ -1,1 +1,1 @@
-Sede principale della [[Olympus Foundation|Fondazione Olympus]].
+Il quartier generale di Olympus è la sede principale della [[Olympus Foundation|fondazione Olympus]].

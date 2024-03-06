@@ -1,1 +1,1 @@
-Membro della [[Vay Family|famiglia Vay]] e membro fondatore della [[Rose Revamp]].
+Nekta Vay è un membro della [[Vay Family|famiglia Vay]] e membro fondatore della [[Rose Revamp]].
