@@ -1,1 +1,1 @@
-Finix è una [[quester]] della [[MasterBase]].
+Finix è una [[quester]] della [[MasterBase]], ed ex-membro di [[SpaceFox]].

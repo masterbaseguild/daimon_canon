@@ -1,1 +1,1 @@
-Theo è un [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]].
+Theo è un [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] ed ex-leader della [[Anark]].

@@ -1,0 +1,1 @@
+Tech Priest è un'organizzazione della [[Alpha Sphere|sfera Alpha]].

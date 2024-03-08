@@ -1,0 +1,1 @@
+La Xadrium Corporation è un'organizzazione multigalattica nativa della [[Alpha Sphere|sfera Alpha]].

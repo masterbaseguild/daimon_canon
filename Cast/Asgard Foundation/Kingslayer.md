@@ -1,0 +1,1 @@
+Kingslayer è un collaboratore della [[Asgard Foundation|fondazione Asgard]].

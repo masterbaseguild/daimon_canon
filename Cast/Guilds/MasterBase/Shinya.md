@@ -1,1 +1,1 @@
-Shinya è un [[quester]] della [[MasterBase]].
+Shinya è un [[quester]] della [[MasterBase]], ed ex-leader di [[New Group]].

@@ -1,4 +1,4 @@
-Gli 8 masters fondatori sono gli originari otto membri della MasterBase.
+Gli 8 masters fondatori sono gli originari otto membri della [[MasterBase]].
 
 - [[Entity]] (leader)
 - [[The Wall]]

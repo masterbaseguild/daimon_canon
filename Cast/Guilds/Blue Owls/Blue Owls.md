@@ -1,4 +1,6 @@
-I Gufi Blu sono una [[Guild|gilda]] di [[Quester|questers]].
+I Gufi Blu sono una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]].
+
+# Storia
 
 In seguito alla [[Uprising|ribellione]] scatenata dalla sua cacciata come [[master]], [[Alony]] si ritrova esiliato dalla [[MasterBase]], insieme a buona parte dei suoi amici e sostenitori, in quanto autori di suddetta [[Uprising|ribellione]].
 Durante una breve permanenza a bordo della [[Arpeggio]], il gruppo decide di fondare la propria [[Guild|gilda]], originariamente in diretto contrasto alla [[MasterBase]]: nascono così i Gufi Blu.

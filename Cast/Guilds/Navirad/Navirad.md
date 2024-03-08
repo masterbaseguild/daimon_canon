@@ -1,0 +1,1 @@
+Navirad è stata una [[Guild|gilda]] [[Planet Iphiridia|ifiridiana]].

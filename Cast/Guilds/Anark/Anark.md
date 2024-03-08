@@ -1,0 +1,1 @@
+L'Anark è stata una [[Guild|gilda]] [[Planet Earth|terrestre]].

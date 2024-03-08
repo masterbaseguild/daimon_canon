@@ -1,0 +1,1 @@
+Il pianeta Iphiridia è un pianeta abitabile situato nel [[Nobilar System|sistema nobilare]].

@@ -1,1 +1,1 @@
-Bitto è un [[quester]] ricercatore della [[MasterBase]].
+Bitto è un [[quester]] ricercatore della [[MasterBase]], ed ex-agente della [[Xadrium Corporation]].

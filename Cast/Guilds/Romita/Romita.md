@@ -1,0 +1,1 @@
+I Romita sono stati una [[Guild|gilda]] sportiva della [[Alpha Sphere|sfera Alpha]].

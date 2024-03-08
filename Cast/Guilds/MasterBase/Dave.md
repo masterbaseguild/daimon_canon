@@ -1,1 +1,1 @@
-Dave è un [[quester]] della [[MasterBase]].
+Dave è un [[quester]] ricercatore della [[MasterBase]].

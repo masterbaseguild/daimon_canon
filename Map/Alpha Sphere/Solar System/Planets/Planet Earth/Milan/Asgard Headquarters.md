@@ -1,1 +1,1 @@
-Il quartier generale di Asgard è la sede principale della [[Asgard Foundation|fondazione Asgard]].
+Il quartier generale di Asgard, situato a [[Milan|Milano]], è la sede principale della [[Asgard Foundation|fondazione Asgard]].

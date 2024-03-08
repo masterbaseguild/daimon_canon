@@ -1,0 +1,1 @@
+La NextWare è stata un'organizzazione [[Planet Earth|terrestre]].

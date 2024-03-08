@@ -1,0 +1,1 @@
+La fondazione Asgard è un'organizzazione multiattività [[Planet Earth|terrestre]].

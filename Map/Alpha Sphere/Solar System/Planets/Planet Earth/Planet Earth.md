@@ -1,0 +1,1 @@
+Il pianeta Terra è un pianeta abitabile situato nel [[Solar System|sistema solare]].

@@ -1,0 +1,1 @@
+gli Young Fighters sono stati una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]].

@@ -1,1 +1,1 @@
-Nita è una [[quester]] atleta dei [[Lignum Nobili]].
+Nita è una [[quester]] atleta dei [[Cast/Guilds/Lignum Nobili/Lignum Nobili]].

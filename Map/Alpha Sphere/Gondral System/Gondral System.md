@@ -1,0 +1,1 @@
+Il sistema gondrale è un sistema di pianeti situato nella [[Alpha Sphere|sfera Alpha]].

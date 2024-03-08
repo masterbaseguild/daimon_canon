@@ -1,1 +1,1 @@
-Shalida è un [[quester]] della [[MasterBase]].
+Shalida è un [[quester]] della [[MasterBase]], ed ex-leader della [[SoS]].

@@ -1,1 +1,1 @@
-Milano è una città italiana.
+Milano è una città [[Planet Earth|italiana]].

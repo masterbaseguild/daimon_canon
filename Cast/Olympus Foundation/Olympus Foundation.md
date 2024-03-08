@@ -1,0 +1,1 @@
+La fondazione Olympus è un'organizzazione multiattività [[Planet Earth|terrestre]].

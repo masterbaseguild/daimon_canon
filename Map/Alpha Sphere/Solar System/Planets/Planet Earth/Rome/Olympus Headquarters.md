@@ -1,1 +1,1 @@
-Il quartier generale di Olympus è la sede principale della [[Olympus Foundation|fondazione Olympus]].
+Il quartier generale di Olympus, situato a [[Rome|Roma]], è la sede principale della [[Olympus Foundation|fondazione Olympus]].

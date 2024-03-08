@@ -1,1 +1,1 @@
-La MasterBase è la [[starbase]] di proprietà dell'omonima [[Guild|gilda]], di manifattura [[Planet Earth|terrestre]].
+La MasterBase è la [[starbase]] di proprietà dell'omonima [[Cast/Guilds/MasterBase/MasterBase|gilda]], di manifattura [[Planet Earth|terrestre]] e situata nella [[Alpha Sphere|sfera Alpha]].

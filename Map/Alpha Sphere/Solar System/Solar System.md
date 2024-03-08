@@ -1,0 +1,1 @@
+Il sistema solare è un sistema di pianeti situato nella [[Alpha Sphere|Via Lattea]].

@@ -1,0 +1,1 @@
+I BaseMasters sono una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]].

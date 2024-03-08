@@ -1,0 +1,1 @@
+World Order è stata una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]].

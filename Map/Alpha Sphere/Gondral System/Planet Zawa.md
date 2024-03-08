@@ -1,0 +1,1 @@
+Il pianeta Zawa è un pianeta abitabile situato nel [[Gondral System|sistema gondrale]].

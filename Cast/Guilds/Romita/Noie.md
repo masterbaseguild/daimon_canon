@@ -1,1 +1,1 @@
-Noie è un ex-[[quester]] atleta dei [[Romita]].
+Noie è un ex-[[quester]] atleta dei [[Romita]], ed ex-membro della [[MasterBase]].

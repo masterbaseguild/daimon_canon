@@ -1,1 +1,1 @@
-Roma è la città capitale italiana.
+Roma è la città capitale [[Planet Earth|italiana]].

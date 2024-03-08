@@ -1,1 +1,1 @@
-Kurymi è una [[quester]] della [[MasterBase]].
+Kurymi è una [[quester]] della [[MasterBase]], ed ex-membro di [[Navirad]].

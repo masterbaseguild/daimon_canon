@@ -1,1 +1,1 @@
-Alez è una [[quester]] ingegnere ed atleta dei [[Lignum Nobili]].
+Alez è una [[quester]] ingegnere ed atleta dei [[Cast/Guilds/Lignum Nobili/Lignum Nobili]].

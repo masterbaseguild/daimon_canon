@@ -1,1 +1,1 @@
-Tecmov è un [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]].
+Tecmov è un [[quester]] ingegnere della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] ed ex-ingegnere della [[Olympus Foundation|fondazione Olympus]].

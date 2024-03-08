@@ -1,0 +1,1 @@
+Il sistema nobilare è un sistema di pianeti situato nella [[Alpha Sphere|sfera Alpha]].

@@ -1,1 +1,1 @@
-Garo Vay è un [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]].
+Garo Vay è un [[quester]] atleta della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] e membro della [[Vay Family|famiglia Vay]]. E' il cugino di [[Emily Vay]].

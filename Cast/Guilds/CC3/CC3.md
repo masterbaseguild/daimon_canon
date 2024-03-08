@@ -1,0 +1,1 @@
+La CC3 è stata una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]].

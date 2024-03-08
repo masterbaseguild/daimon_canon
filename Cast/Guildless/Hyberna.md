@@ -1,1 +1,1 @@
-Hyberna è stata una maga, nativa del pianeta [[Planet Iphiridia|Iphiridia]].
+Hyberna è stata una maga [[Planet Iphiridia|ifiridiana]].

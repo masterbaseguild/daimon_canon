@@ -1,1 +1,1 @@
-Blu Wind è un [[quester]] della [[Xadrium Corporation]].
+Blu Wind è un [[quester]] della [[Xadrium Corporation]]. Fece parte della [[MasterBase]] per un periodo, in forma di osservatore della [[Xadrium Corporation|corporazione]].

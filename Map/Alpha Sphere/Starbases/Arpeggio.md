@@ -1,4 +1,6 @@
-La Arpeggio è una [[starbase]] di manifattura [[Planet Earth|terrestre]].
+La Arpeggio è una [[starbase]] di manifattura [[Planet Earth|terrestre]] e situata nella [[Alpha Sphere|sfera Alpha]].
+
+# Storia
 
 Inaugurata dal master [[Kurymi]] nel 2020, diventa presto un luogo di ritrovo per i veterani della [[Navirad]], tra cui [[WinterPhoenix]], [[Black Ace]] e [[Gastic Nox]].
 

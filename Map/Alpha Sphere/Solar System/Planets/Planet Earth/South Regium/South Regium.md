@@ -1,1 +1,1 @@
-South Regium è una città italiana. E' gemellata con [[North Regium]], alla quale è connessa tramite un bullet train sotterraneo.
+South Regium è una città [[Planet Earth|italiana]]. E' gemellata con [[North Regium]], alla quale è connessa tramite un bullet train sotterraneo.

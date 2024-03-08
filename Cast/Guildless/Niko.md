@@ -1,1 +1,1 @@
-Niko è un ex-[[quester]] della [[MasterBase]].
+Niko è un ex-[[quester]] della [[MasterBase]], ed ex-fondatore della [[Steeleaf]].

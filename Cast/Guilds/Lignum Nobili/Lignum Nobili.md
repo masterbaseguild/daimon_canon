@@ -1,0 +1,1 @@
+I Lignum Nobili sono una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]], proprietaria dell'[[Map/Alpha Sphere/Starbases/Lignum Nobili|omonima starbase]].

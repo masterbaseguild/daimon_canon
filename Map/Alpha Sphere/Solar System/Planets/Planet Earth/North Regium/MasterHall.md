@@ -1,1 +1,1 @@
-La MasterHall è la colonia [[Planet Earth|terrestre]] della [[MasterBase]].
+La MasterHall, situata a [[North Regium]], è la colonia [[Planet Earth|terrestre]] della [[MasterBase]].

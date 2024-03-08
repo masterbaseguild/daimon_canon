@@ -1,0 +1,1 @@
+Rose Revamp è un'attività commerciale indipendente [[Gondral System|gondrana]].

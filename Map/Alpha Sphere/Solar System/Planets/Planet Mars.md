@@ -1,0 +1,1 @@
+Il pianeta Marte è un pianeta semiabitabile situato nel [[Solar System|sistema solare]].
