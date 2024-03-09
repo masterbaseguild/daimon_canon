@@ -1,1 +1,0 @@
-Vally è un [[quester]] fondatore della [[Nexus]].

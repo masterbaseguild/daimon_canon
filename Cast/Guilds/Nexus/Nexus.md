@@ -1,1 +1,0 @@
-La Nexus è una [[Guild|gilda]] [[Planet Iphiridia|ifiridiana]].

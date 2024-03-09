@@ -1,1 +1,0 @@
-Rubix è un [[quester]] atleta della [[Vladi]], ed ex-membro della [[MasterBase]].

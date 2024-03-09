@@ -1,1 +1,0 @@
-Mora è una [[quester]] della [[Nexus]].

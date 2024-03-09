@@ -1,1 +1,0 @@
-Endemion è un [[quester]] ingegnere della [[Tech Priest]], ed ex-membro dei [[Romita]] come atleta.
