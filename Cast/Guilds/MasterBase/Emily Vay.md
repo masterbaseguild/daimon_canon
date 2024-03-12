@@ -1,1 +1,0 @@
-Emily è una [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]], e membro della [[Vay Family|famiglia Vay]]. E' la cugina di [[Garo Vay]].

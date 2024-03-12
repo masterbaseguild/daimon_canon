@@ -1,1 +1,0 @@
-La famiglia Vay è una [[Trade Houses|trade house]] [[Gondral System|gondrana]].

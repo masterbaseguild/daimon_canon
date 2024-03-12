@@ -1,1 +1,0 @@
-Zzb Vay è stato un membro della [[Vay Family|famiglia Vay]].
