@@ -1,1 +1,1 @@
-Emily è una [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]], e membro della [[Franky Family|famiglia Vay]]. E' la cugina di [[Garo FrankyRose]].
+Emily è una [[quester]] della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]], e membro della [[Rose Family|famiglia Rose]]. E' la cugina di [[Garo FrankyRose]].

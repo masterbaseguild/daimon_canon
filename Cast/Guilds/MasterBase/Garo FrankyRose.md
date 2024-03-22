@@ -1,1 +1,1 @@
-Garo FrankyRose è un [[quester]] atleta della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] e membro della [[Franky Family|famiglia Vay]]. E' il cugino di [[Emily FrankyRose]].
+Garo FrankyRose è un [[quester]] atleta della [[MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] e membro della [[Franky Family|famiglia Franky]]. E' il cugino di [[Emily FrankyRose]].

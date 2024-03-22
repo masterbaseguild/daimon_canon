@@ -2,7 +2,7 @@
 - [[SpaceFox vs WorldOrder]]
 - [[Anarchic Dream]]
 - [[Chronicles of Iphiridia]]
-	- [[Vay]]
+	- [[FrankyRose]]
 	- [[Navirad Genesis]]
 	- [[Steeleaf Genesis]]
 	- [[DeathBed Prophecy]]
@@ -10,7 +10,7 @@
 - [[MasterBase Rising]]
 2018
 - [[The Olympus Grand Tournament]]
-- [[Operation Vay]]
+- [[Operation FrankyRose]]
 - [[Operation V]]
 - [[Redemption]]
 	- [[CC3 vs MasterBase]]

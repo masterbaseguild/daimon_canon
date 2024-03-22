@@ -1,1 +1,0 @@
-Nekta Vay è un membro della [[Franky Family|famiglia Vay]] e membro fondatore della [[Rose Revamp]].
