@@ -22,7 +22,7 @@ jobs:
 
     - name: Install Rename
       run: |
-        apt-get update -y && apt-get install -y rename
+        sudo apt-get update -y && sudo apt-get install -y rename
 
     - name: Rename files and directories
       run: |
