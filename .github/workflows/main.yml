@@ -22,7 +22,7 @@ jobs:
 
     - name: Rename files and directories
       run: |
-        find . -depth -exec rename 'y/A-Z/a-z/; s/\s+/_/g' {} +
+        find . -depth -exec bash -c 'for f; do mv -i "$f" "$(dirname "$f")/$(basename "$f" | tr "[:upper:]" "[:lower:]" | tr " " "_")"; done' _ {} +
 
     - name: Sync to S3 bucket
       run: |
