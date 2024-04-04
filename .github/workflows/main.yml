@@ -22,7 +22,7 @@ jobs:
 
     - name: Rename files and directories
       run: |
-        find . -depth -exec prename 'y/A-Z/a-z/; s/\s+/_/g' {} +
+        find . -depth -exec perl-rename 'y/A-Z/a-z/; s/\s+/_/g' {} +
 
     - name: Sync to S3 bucket
       run: |
