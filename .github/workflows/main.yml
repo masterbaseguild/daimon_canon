@@ -20,9 +20,13 @@ jobs:
         aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         aws-region: eu-south-1
 
+    - name: Install Rename
+      run: |
+        sudo apt-get update -y && sudo apt-get install -y rename
+
     - name: Rename files and directories
       run: |
-        find . -depth -exec bash -c 'for f; do mv -i "$f" "$(dirname "$f")/$(basename "$f" | tr "[:upper:]" "[:lower:]" | tr " " "_")"; done' _ {} +
+        find . -depth -execdir rename 'y/A-Z/a-z/; s/\s+/_/g' {} +
 
     - name: Sync to S3 bucket
       run: |
