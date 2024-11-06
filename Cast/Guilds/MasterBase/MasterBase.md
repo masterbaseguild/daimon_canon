@@ -1,4 +1,4 @@
-La MasterBase è una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]], proprietaria dell'[[Map/Alpha Sphere/Starbases/MasterBase|omonima starbase]].
+La MasterBase è una [[Glossary/Guild|Guild]] della [[Alpha Sphere|sfera Alpha]], proprietaria dell'[[Map/Alpha Sphere/Starbases/MasterBase|omonima starbase]].
 
 # Storia
 
