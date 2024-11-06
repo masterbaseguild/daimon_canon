@@ -1,1 +1,1 @@
-La sfera Alpha è la [[Cosmic Sphere|sfera cosmica]] contenente, tra gli altri, il [[Planet Earth|pianeta Terra]].
+La sfera Alpha è la [[Glossary/Cosmic Sphere|Cosmic Sphere]] contenente, tra gli altri, il [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/Planet Earth|Planet Earth]].
