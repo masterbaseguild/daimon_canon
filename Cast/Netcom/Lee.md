@@ -1,1 +1,1 @@
-Lee è il fondatore di [[Netcom]].
+Lee è il fondatore di [[Cast/Netcom/Netcom|Netcom]].

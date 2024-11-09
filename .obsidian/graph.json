@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "file:-README -Rules",
+  "collapse-filter": true,
+  "search": "file:-README -Rules -Universe",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "path:Glossary",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012182,
-  "close": true
+  "scale": 0.18462326225858497,
+  "close": false
 }

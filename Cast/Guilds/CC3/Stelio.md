@@ -1,1 +1,1 @@
-Stelio è stato un membro della [[CC3]], nonché fondatore.
+Stelio è stato un membro della [[Cast/Guilds/CC3/CC3|CC3]], nonché fondatore.

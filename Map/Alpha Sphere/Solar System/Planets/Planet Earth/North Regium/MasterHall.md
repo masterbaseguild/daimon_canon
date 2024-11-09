@@ -1,1 +1,1 @@
-La MasterHall, situata a [[North Regium]], è la colonia [[Planet Earth|terrestre]] della [[MasterBase]].
+La MasterHall, situata a [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/North Regium/North Regium|North Regium]], è la colonia [[Map/Alpha Sphere/Solar System/Planets/Planet Earth/Planet Earth|terrestre]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

@@ -1,1 +1,1 @@
-Red Raider è un ex-[[quester]] della [[MasterBase]].
+Red Raider è un ex-[[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

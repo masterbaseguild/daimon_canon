@@ -1,1 +1,0 @@
-Mister Alex è stato un [[quester]] ingegnere e atleta della [[MasterBase]].

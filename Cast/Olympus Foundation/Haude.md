@@ -1,1 +1,1 @@
-Haude è un [[quester]] leader della [[Olympus Foundation|fondazione Olympus]].
+Haude è un [[quester]] leader della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].

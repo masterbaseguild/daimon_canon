@@ -1,42 +1,42 @@
-2017
-- [[SpaceFox vs WorldOrder]]
-- [[Anarchic Dream]]
-- [[Chronicles of Iphiridia]]
-	- [[FrankyRose]]
-	- [[Navirad Genesis]]
-	- [[Steeleaf Genesis]]
-	- [[DeathBed Prophecy]]
-	- [[World-Ending Masquerade]]
-- [[MasterBase Rising]]
-2018
-- [[The Olympus Grand Tournament]]
-- [[Operation FrankyRose]]
-- [[Operation V]]
-- [[Redemption]]
-	- [[CC3 vs MasterBase]]
-- [[Master War I]]
-- [[Determination]]
-2019
-- [[MasterCon Campaign]]
-- [[Khight Attack!]]
-- [[Netcom Special Edition]]
-- [[Reaper Mask vs MasterBase]]
-- [[Master War II]]
-2020
-2021
-- [[Ale's Madness]]
-- [[Shadow vs Bitto]]
-- [[Discovery]]
-- [[Uprising]]
-2022
-- [[The Downfall]]
-2023
-- [[Master War III]]
-- [[Return to Iphiridia 7 Years Later]]
-	- [[Entity vs Emily]]
-FUTURO
-- [[Rise to Syteel]]
-- [[Downfall of Olympus]]
-- [[A New Enemy]]
-- [[The Daimon Within]]
-- [[MasterBase Reckoning]]
+# 2017
+- [[Timeline/SpaceFox vs WorldOrder|SpaceFox vs WorldOrder]]
+- [[Timeline/Anarchic Dream|Anarchic Dream]]
+- [[Timeline/Chronicles of Iphiridia|Chronicles of Iphiridia]]
+	- [[Timeline/FrankyRose|FrankyRose]]
+	- [[Timeline/Navirad Genesis|Navirad Genesis]]
+	- [[Timeline/Steeleaf Genesis|Steeleaf Genesis]]
+	- [[Timeline/DeathBed Prophecy|DeathBed Prophecy]]
+	- [[Timeline/World-Ending Masquerade|World-Ending Masquerade]]
+- [[Timeline/MasterBase Rising|MasterBase Rising]]
+# 2018
+- [[Timeline/The Olympus Grand Tournament|The Olympus Grand Tournament]]
+- [[Timeline/Operation FrankyRose|Operation FrankyRose]]
+- [[Timeline/Operation V|Operation V]]
+- [[Timeline/Redemption|Redemption]]
+	- [[Timeline/CC3 vs MasterBase|CC3 vs MasterBase]]
+- [[Timeline/Master War I|Master War I]]
+- [[Timeline/Determination|Determination]]
+# 2019
+- [[Timeline/MasterCon Campaign|MasterCon Campaign]]
+- [[Timeline/Khight Attack!|Knight Attack!]]
+- [[Timeline/Netcom Special Edition|Netcom Special Edition]]
+- [[Timeline/Reaper Mask vs MasterBase|Reaper Mask vs MasterBase]]
+- [[Timeline/Master War II|Master War II]]
+# 2020
+# 2021
+- [[Timeline/Ale's Madness|Ale's Madness]]
+- [[Timeline/Shadow vs Bitto|Shadow vs Bitto]]
+- [[Timeline/Discovery|Discovery]]
+- [[Timeline/Uprising|Uprising]]
+# 2022
+- [[Timeline/The Downfall|The Downfall]]
+# 2023
+- [[Timeline/Master War III|Master War III]]
+- [[Timeline/Return to Iphiridia 7 Years Later|Return to Iphiridia: 7 Years Later]]
+	- [[Timeline/Entity vs Emily|Entity vs Emily]]
+# FUTURO
+- [[Timeline/Rise to Syteel|Rise to Syteel]]
+- [[Timeline/Downfall of Olympus|Downfall of Olympus]]
+- [[Timeline/A New Enemy|A New Enemy]]
+- [[Timeline/The Daimon Within|The Daimon Within]]
+- [[Timeline/MasterBase Reckoning|MasterBase Reckoning]]

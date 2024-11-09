@@ -1,8 +1,12 @@
-Netcom è stata un'organizzazione della [[Alpha Sphere|sfera Alpha]].
+Netcom è stata un'organizzazione della [[Map/Alpha Sphere/Alpha Sphere|sfera Alpha]].
+
+# Membri rilevanti
+
+- [[Cast/Netcom/Lee|Lee]]
 
 # Storia
 
-Fondata da [[Lee]], l'organizzazione si pone come obiettivo l'accurata documentazione degli eventi riguardanti le [[Guild|gilde]] della [[Alpha Sphere|sfera Alpha]], fino ad allora lasciati alla discrezione del passaparola.
+Fondata da [[Cast/Netcom/Lee|Lee]], l'organizzazione si pone come obiettivo l'accurata documentazione degli eventi riguardanti le [[Guild|gilde]] della [[Map/Alpha Sphere/Alpha Sphere|sfera Alpha]], fino ad allora lasciati alla discrezione del passaparola.
 
 Ciò che era nato con nobili propositi, tuttavia, si evolve presto in un'attività che approfitta del proprio potere per imporre il proprio volere alle altre gilde.
 

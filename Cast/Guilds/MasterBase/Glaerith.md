@@ -1,1 +1,0 @@
-Glaerith è una [[quester]] della [[MasterBase]]. E' la cugina di [[Entity]].

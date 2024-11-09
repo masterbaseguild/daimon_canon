@@ -1,1 +1,1 @@
-Xyroh è un [[quester]] della [[MasterBase]].
+Xyroh è un [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

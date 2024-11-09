@@ -1,1 +1,1 @@
-La fascia di asteroidi gondrana è un agglomerato di corpi celesti situato nel [[Gondral System|sistema gondrale]].
+La fascia di asteroidi gondrana è un agglomerato di corpi celesti situato nel [[Map/Alpha Sphere/Gondral System/Gondral System|sistema gondrale]].

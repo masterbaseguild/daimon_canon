@@ -1,1 +1,1 @@
-La Nexus è stata una [[Guild|gilda]] [[Planet Iphiridia|ifiridiana]].
+La Nexus è stata una [[Guild|gilda]] [[Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Planet Iphiridia|ifiridiana]].

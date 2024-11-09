@@ -1,1 +1,1 @@
-Rubix è un ex-[[quester]] della [[MasterBase]].
+Rubix è un ex-[[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

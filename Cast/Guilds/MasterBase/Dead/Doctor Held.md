@@ -1,1 +1,1 @@
-Doctor Held è stato un ingegnere della [[MasterBase]].
+Doctor Held è stato un ingegnere della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

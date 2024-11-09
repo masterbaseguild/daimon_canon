@@ -1,1 +1,1 @@
-Il pianeta Mercurio è un pianeta semiabitabile situato nel [[Solar System|sistema solare]].
+Il pianeta Mercurio è un pianeta semiabitabile situato nel [[Map/Alpha Sphere/Solar System/Solar System|sistema solare]].

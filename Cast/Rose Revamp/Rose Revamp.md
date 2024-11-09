@@ -1,3 +1,11 @@
-Rose Revamp è un'attività commerciale indipendente [[Gondral System|gondrana]].
+Rose Revamp è un'attività commerciale indipendente [[Map/Alpha Sphere/Gondral System/Gondral System|gondrana]].
 
-Fondata da [[Nekta Franky]], l'attività ha sede in una astronave di sua proprietà, e si occupa di vendere armi e attrezzature personalizzate con uno stile unico.
+# Membri
+
+- [[Cast/Rose Revamp/Mia|Mia]]
+- [[Cast/Rose Revamp/Nekta Franky|Nekta Franky]]
+- [[Cast/Rose Revamp/Peridot|Peridot]]
+
+# Storia
+
+Fondata da [[Cast/Rose Revamp/Nekta Franky|Nekta Franky]], l'attività ha sede in una astronave di sua proprietà, e si occupa di vendere armi e attrezzature personalizzate con uno stile unico.

@@ -1,1 +1,1 @@
-New Group è una [[Guild|gilda]] della [[Alpha Sphere|sfera Alpha]].
+New Group è una [[Guild|gilda]] della [[Map/Alpha Sphere/Alpha Sphere|sfera Alpha]].

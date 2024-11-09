@@ -1,3 +1,4 @@
 - I nomi di tutti i file devono essere in inglese, e il contenuto di ogni file deve essere in italiano.
 - Il file di ogni personaggio va collocato nella cartella dell'ultima fazione di cui il personaggio ha fatto parte nella sua vita (intesa come fazione principale).
-- Tutte le citazioni a un file devono essere linkate.
+- Tutte le prime citazioni a un file devono essere linkate.
+- A meno che non esista nella vita reale un corrispettivo italiano (es. Earth/Terra), tutti i nomi propri devono essere mantenuti nella loro forma originaria.
