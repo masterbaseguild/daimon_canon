@@ -6,7 +6,7 @@ La sfera Alpha è una [[Glossary/Cosmic Sphere|sfera cosmica]].
 - [[Map/Alpha Sphere/Nobilar System/Nobilar System|Sistema Nobilare]]
 - [[Map/Alpha Sphere/Solar System/Solar System|Sistema Solare]]
 
-# [[Glossary/Starbase|Starbases]]
+# [[Glossary/StarBase|Starbases]]
 
 - [[Map/Alpha Sphere/Starbases/Arpeggio|Arpeggio]]
 - [[Map/Alpha Sphere/Starbases/Lignum Nobili|Lignum Nobili]]
