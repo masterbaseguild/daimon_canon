@@ -1,1 +1,1 @@
-Cyrus è stato un [[quester]] della [[Anark]].
+Cyrus è stato un [[quester]] della [[Cast/Guilds/Anark/Anark|Anark]].

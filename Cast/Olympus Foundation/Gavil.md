@@ -1,1 +1,1 @@
-Gavil è un [[quester]] della [[Olympus Foundation|fondazione Olympus]].
+Gavil è un [[quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].

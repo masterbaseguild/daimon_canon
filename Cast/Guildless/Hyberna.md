@@ -1,1 +1,1 @@
-Hyberna è stata una maga [[Planet Iphiridia|ifiridiana]].
+Hyberna è stata una maga [[Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Planet Iphiridia|ifiridiana]].

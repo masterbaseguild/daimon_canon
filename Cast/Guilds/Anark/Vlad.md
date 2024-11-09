@@ -1,1 +1,1 @@
-Vlad è stato un [[quester]] della [[Anark]].
+Vlad è stato un [[quester]] della [[Cast/Guilds/Anark/Anark|Anark]].

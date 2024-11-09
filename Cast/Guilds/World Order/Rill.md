@@ -1,1 +1,0 @@
-Rill è stato un [[quester]] della [[World Order]], nonché fondatore.

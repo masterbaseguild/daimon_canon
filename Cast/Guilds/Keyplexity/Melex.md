@@ -1,1 +1,1 @@
-Melex è un [[quester]] di [[Keyplexity]].
+Melex è un [[quester]] di [[Cast/Guilds/Keyplexity/Keyplexity|Keyplexity]].

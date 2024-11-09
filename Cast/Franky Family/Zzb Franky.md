@@ -1,1 +1,1 @@
-Zzb Franky è stato un membro della [[Franky Family|famiglia Franky]].
+Zzb Franky è stato un membro della [[Cast/Franky Family/Franky Family|famiglia Franky]].

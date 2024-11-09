@@ -1,1 +1,1 @@
-Alony è un [[quester]] ingegnere dei [[Blue Owls|Gufi Blu]], ex-membro della [[MasterBase]], ex-fondatore della [[NextWare]] ed ex-membro di [[SpaceFox]].
+Alony è un [[quester]] ingegnere dei [[Cast/Guilds/Blue Owls/Blue Owls|Gufi Blu]], ex-membro della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ex-fondatore della [[Cast/NextWare/NextWare|NextWare]] ed ex-membro di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].

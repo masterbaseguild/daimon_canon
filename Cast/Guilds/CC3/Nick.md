@@ -1,1 +1,1 @@
-Nick è stato un [[quester]] della [[CC3]], ed ex-membro della [[MasterBase]].
+Nick è stato un [[quester]] della [[Cast/Guilds/CC3/CC3|CC3]], ed ex-membro della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

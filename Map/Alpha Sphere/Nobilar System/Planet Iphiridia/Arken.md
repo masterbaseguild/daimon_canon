@@ -1,1 +1,1 @@
-Arken è una città [[Planet Iphiridia|ifiridiana]].
+Arken è una città [[Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Planet Iphiridia|ifiridiana]].

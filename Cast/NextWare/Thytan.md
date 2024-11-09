@@ -1,1 +1,1 @@
-Thytan è stato un [[quester]] Ingegnere di [[NextWare]].
+Thytan è stato un [[quester]] Ingegnere di [[Cast/NextWare/NextWare|NextWare]].

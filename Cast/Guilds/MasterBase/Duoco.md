@@ -1,1 +1,1 @@
-Duoco è un [[quester]] atleta della [[MasterBase]].
+Duoco è un [[quester]] atleta della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

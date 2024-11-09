@@ -1,1 +1,1 @@
-Rattly è un ex-[[quester]] di [[SpaceFox]].
+Rattly è un ex-[[quester]] di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].

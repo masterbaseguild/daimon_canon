@@ -1,1 +1,1 @@
-Damian è un [[quester]] dei [[BaseMasters]].
+Damian è un [[quester]] dei [[Cast/Guilds/BaseMasters/BaseMasters|BaseMasters]].

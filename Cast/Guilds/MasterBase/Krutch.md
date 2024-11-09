@@ -1,1 +1,0 @@
-Krutch è un [[quester]] ingegnere e atleta della [[MasterBase]].

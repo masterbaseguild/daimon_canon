@@ -1,1 +1,1 @@
-Mia è un membro della [[Rose Revamp]].
+Mia è un membro della [[Cast/Rose Revamp/Rose Revamp|Rose Revamp]].

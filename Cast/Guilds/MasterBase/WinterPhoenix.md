@@ -1,1 +1,1 @@
-WinterPhoenix è un [[quester]] atleta della [[MasterBase]] e dei [[Blue Owls|Gufi Blu]].
+WinterPhoenix è un [[quester]] atleta della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]] e dei [[Cast/Guilds/Blue Owls/Blue Owls|Gufi Blu]].

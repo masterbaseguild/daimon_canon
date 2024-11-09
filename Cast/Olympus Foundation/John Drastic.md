@@ -1,1 +1,1 @@
-John Drastic è un [[quester]] della [[Olympus Foundation|fondazione Olympus]].
+John Drastic è un [[quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].
