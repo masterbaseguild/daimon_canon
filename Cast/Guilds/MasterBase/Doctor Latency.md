@@ -1,1 +1,1 @@
-Doctor Latency è un [[quester]] ricercatore della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].
+Doctor Latency è un [[Glossary/Quester|quester]] ricercatore della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

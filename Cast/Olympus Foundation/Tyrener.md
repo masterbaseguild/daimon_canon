@@ -1,1 +1,1 @@
-Tyrener è un [[quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].
+Tyrener è un [[Glossary/Quester|quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].

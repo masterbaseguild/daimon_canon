@@ -1,1 +1,1 @@
-Una gilda è un gruppo di [[Quester|questers]].
+Una gilda è un gruppo di [[Glossary/Quester|questers]].

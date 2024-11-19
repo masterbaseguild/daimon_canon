@@ -1,1 +1,1 @@
-Chojiro è un [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-membro di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].
+Chojiro è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-membro di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].

@@ -1,1 +1,1 @@
-Davrin è un [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].
+Davrin è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

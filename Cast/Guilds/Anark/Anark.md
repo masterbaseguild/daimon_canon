@@ -21,7 +21,7 @@ All'interno della Olympus, il gruppo viene allenato dai professionisti della fon
 
 In preparazione alla campagna, il gruppo si lancia in una serie di reclutamenti per rinfoltire le proprie fila, e tra le conoscenze sviluppate presso la Olympus vengono arruolati Cyrus, Exitium, Mikyz, Vlad e [[Cast/Guildless/Damashi|Damashi]].
 
-Sbarcata su Iphiridia, come tutte le altre gilde, l'Anark si addentra nel territorio infestato, in cerca di un luogo dove stabilirsi, e una volta trovato vi fonda la città di [[Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Arken|Arken]]. Poi, usando la città come punto di partenza, i giovani [[Quester|questers]] espandono il proprio territorio, strappandolo alla piaga, e arrivano a conquistare una discreta provincia.
+Sbarcata su Iphiridia, come tutte le altre gilde, l'Anark si addentra nel territorio infestato, in cerca di un luogo dove stabilirsi, e una volta trovato vi fonda la città di [[Map/Alpha Sphere/Nobilar System/Planet Iphiridia/Arken|Arken]]. Poi, usando la città come punto di partenza, i giovani [[Glossary/Quester|questers]] espandono il proprio territorio, strappandolo alla piaga, e arrivano a conquistare una discreta provincia.
 
 Un giorno, mentre un gruppo di membri della Anark si trova a ritirare provviste presso la capitale della Nexus, la decisione di un membro del gruppo di origliare una conversazione nel quartier generale della gilda ifiridiana sfocia in una colluttazione con un gruppo di misteriosi individui, a seguito del quale uno di essi, un certo [[Cast/Guilds/MasterBase/Garo FrankyRose|Garo]], tradisce i suoi compagni e si unisce alla Anark.
 

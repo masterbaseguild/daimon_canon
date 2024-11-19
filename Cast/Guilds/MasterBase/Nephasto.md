@@ -1,1 +1,1 @@
-Nephasto è un [[quester]] ricercatore della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] ed ex-membro della [[Cast/Guilds/Anark/Anark|Anark]].
+Nephasto è un [[Glossary/Quester|quester]] ricercatore della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], nonché membro degli [[8 Founding Masters|8 masters fondatori]] ed ex-membro della [[Cast/Guilds/Anark/Anark|Anark]].

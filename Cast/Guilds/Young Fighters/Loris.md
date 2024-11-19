@@ -1,1 +1,1 @@
-Loris è stato un [[quester]] degli [[Cast/Guilds/Young Fighters/Young Fighters|Young Fighters]], nonché fondatore.
+Loris è stato un [[Glossary/Quester|quester]] degli [[Cast/Guilds/Young Fighters/Young Fighters|Young Fighters]], nonché fondatore.

@@ -1,1 +1,1 @@
-Disti è un [[quester]] ingegnere della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-membro di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].
+Disti è un [[Glossary/Quester|quester]] ingegnere della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ed ex-membro di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].

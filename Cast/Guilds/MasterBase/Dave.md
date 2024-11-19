@@ -1,1 +1,1 @@
-Dave è un [[quester]] ricercatore della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].
+Dave è un [[Glossary/Quester|quester]] ricercatore della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

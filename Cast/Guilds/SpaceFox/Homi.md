@@ -1,1 +1,1 @@
-Homi è un ex-[[quester]] di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].
+Homi è un ex-[[Glossary/Quester|quester]] di [[Cast/Guilds/SpaceFox/SpaceFox|SpaceFox]].

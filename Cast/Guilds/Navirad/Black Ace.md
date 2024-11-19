@@ -1,1 +1,1 @@
-Black Ace è un ex-[[quester]] di [[Cast/Guilds/Navirad/Navirad|Navirad]].
+Black Ace è un ex-[[Glossary/Quester|quester]] di [[Cast/Guilds/Navirad/Navirad|Navirad]].

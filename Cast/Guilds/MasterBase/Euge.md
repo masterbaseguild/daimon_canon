@@ -1,1 +1,1 @@
-Euge è un [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ritiratosi come ricercatore, ed ex-membro della [[Cast/Guilds/Anark/Anark|Anark]].
+Euge è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]], ritiratosi come ricercatore, ed ex-membro della [[Cast/Guilds/Anark/Anark|Anark]].

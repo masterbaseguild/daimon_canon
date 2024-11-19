@@ -1,1 +1,1 @@
-Mikyz è stato un [[quester]] della [[Cast/Guilds/Anark/Anark|Anark]].
+Mikyz è stato un [[Glossary/Quester|quester]] della [[Cast/Guilds/Anark/Anark|Anark]].

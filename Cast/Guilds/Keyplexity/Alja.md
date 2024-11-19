@@ -1,1 +1,1 @@
-Alja è una [[quester]] di [[Cast/Guilds/Keyplexity/Keyplexity|Keyplexity]].
+Alja è una [[Glossary/Quester|quester]] di [[Cast/Guilds/Keyplexity/Keyplexity|Keyplexity]].

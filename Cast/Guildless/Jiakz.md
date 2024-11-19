@@ -1,1 +1,1 @@
-Jiakz è una ex-[[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].
+Jiakz è una ex-[[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

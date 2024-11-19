@@ -1,1 +1,1 @@
-PK è stato un [[quester]] della [[Cast/Guilds/Anark/Anark|Anark]].
+PK è stato un [[Glossary/Quester|quester]] della [[Cast/Guilds/Anark/Anark|Anark]].

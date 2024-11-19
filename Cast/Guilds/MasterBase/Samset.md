@@ -1,1 +1,1 @@
-Samset è un [[quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].
+Samset è un [[Glossary/Quester|quester]] della [[Cast/Guilds/MasterBase/MasterBase|MasterBase]].

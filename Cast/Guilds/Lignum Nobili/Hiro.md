@@ -1,1 +1,1 @@
-Hiro è un [[quester]] atleta dei [[Cast/Guilds/Lignum Nobili/Lignum Nobili|Lignum Nobili]].
+Hiro è un [[Glossary/Quester|quester]] atleta dei [[Cast/Guilds/Lignum Nobili/Lignum Nobili|Lignum Nobili]].

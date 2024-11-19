@@ -1,1 +1,1 @@
-Ariel Sasaki è una [[quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].
+Ariel Sasaki è una [[Glossary/Quester|quester]] della [[Cast/Olympus Foundation/Olympus Foundation|fondazione Olympus]].
