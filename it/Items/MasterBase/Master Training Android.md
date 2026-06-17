@@ -1,0 +1,1 @@
+manichini da addestramento in grado di combattere a loro volta, e di imitare i pattern di attacco di numerosi generi di combattenti, tramite il database connesso con il sistema ARC.

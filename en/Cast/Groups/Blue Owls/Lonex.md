@@ -1,0 +1,1 @@
+﻿Lonex is a [[en/Glossary/Quester|questor]] athlete of [[en/Cast/Groups/Blue Owls/Blue Owls|Blue Owls]].

@@ -1,0 +1,1 @@
+﻿The planet Cyria is a habitable planet located in [[en/Map/Alpha Sphere/Sophia System/Sophia System|Sophia system]].

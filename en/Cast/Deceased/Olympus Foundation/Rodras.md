@@ -1,0 +1,1 @@
+﻿Rodras was a [[en/Glossary/Quester|questor]] of the [[en/Items/Olympus Foundation/Olympus Foundation|Olympus Foundation]], as well as a leader.

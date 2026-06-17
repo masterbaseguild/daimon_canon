@@ -1,0 +1,1 @@
+Ex membro della MasterBase

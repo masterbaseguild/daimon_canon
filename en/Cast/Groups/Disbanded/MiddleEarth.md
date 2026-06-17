@@ -1,0 +1,1 @@
+﻿MiddleEarth was a [[en/Glossary/Guild|guild]] of the [[en/Map/Alpha Sphere/Alpha Sphere|Alpha Sphere]].

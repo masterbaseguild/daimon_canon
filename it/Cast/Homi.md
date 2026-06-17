@@ -1,0 +1,1 @@
+Homi è un ex-[[it/Glossary/Quester|quester]] di [[it/Cast/Groups/Disbanded/SpaceFox|SpaceFox]], nonchè fondatore.

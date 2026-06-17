@@ -1,0 +1,1 @@
+Zen è un ospite della MasterBase, entrato nel 2020 e per un periodo di tempo partecipante abituale alle operazioni.

@@ -1,0 +1,2 @@
+﻿# en/Glossary/Guild Wars
+

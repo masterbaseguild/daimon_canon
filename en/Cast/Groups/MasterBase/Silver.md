@@ -1,0 +1,1 @@
+﻿A former sports duelist, his sword is now at the service of the masterbase. He fights on the front line.

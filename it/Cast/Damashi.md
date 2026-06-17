@@ -1,0 +1,1 @@
+Damashi è un ex-[[it/Glossary/Quester|quester]] della [[it/Cast/Groups/MasterBase/MasterBase|MasterBase]], ed ex-membro della [[it/Cast/Groups/Disbanded/Anark|Anark]].

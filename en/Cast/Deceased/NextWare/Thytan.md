@@ -1,0 +1,1 @@
+﻿Thytan was a [[en/Glossary/Quester|questor]] Engineer of [[en/Cast/Groups/Disbanded/NextWare|NextWare]].

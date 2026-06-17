@@ -1,0 +1,1 @@
+La Nexus è stata una [[it/Glossary/Guild|gilda]] [[it/Map/Alpha Sphere/Nobi System/Planet Iphiridia/Planet Iphiridia|ifiridiana]].

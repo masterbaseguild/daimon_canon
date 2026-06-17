@@ -1,0 +1,1 @@
+GPS è un ospite abituale di Lignum Nobili e MasterBase.

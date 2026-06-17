@@ -1,0 +1,2 @@
+
+- Ogni Master ha in dotazione una tuta da Void Dive, la quale, in combinazione con il Casco Master, garantisce una protezione completa dal vuoto, e permette di effettuare operazioni al di fuori dell'atmosfera. La tuta ha una perfetta aderenza, e viene indossata sotto l'uniforme.

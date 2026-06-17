@@ -1,0 +1,1 @@
+﻿- Each Master is supplied with a Void Dive suit, which, in combination with the Master Helmet, guarantees complete protection from the vacuum, and allows operations to be carried out outside the atmosphere. The suit has a perfect fit, and is worn under the uniform.

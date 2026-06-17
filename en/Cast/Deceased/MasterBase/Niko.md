@@ -1,0 +1,1 @@
+﻿Niko is an ex-[[en/Glossary/Quester|questor]] of [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]], and ex-founder of [[en/Cast/Groups/Disbanded/Steeleaf|Steeleaf]].

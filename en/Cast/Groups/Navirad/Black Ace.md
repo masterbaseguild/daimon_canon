@@ -1,0 +1,1 @@
+﻿Black Ace is an ex-[[en/Glossary/Quester|questor]] of [[en/Cast/Groups/Navirad/Navirad|Navirad]], captain of the [[en/Map/Alpha Sphere/Starbases/Arpeggio|Arpeggio]].

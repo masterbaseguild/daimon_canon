@@ -1,0 +1,1 @@
+﻿The planet Cathum is a habitable planet located in [[en/Map/Alpha Sphere/Turma System/Turma System|Turma system]].

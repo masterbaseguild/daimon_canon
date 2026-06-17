@@ -1,0 +1,1 @@
+﻿Loris was a [[en/Glossary/Quester|questor]] of the [[en/Cast/Groups/Disbanded/Young Fighters|YoungFighters]], as well as the founder.

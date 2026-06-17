@@ -1,0 +1,1 @@
+﻿Mr. Alex was an [[en/Glossary/Quester|questor]] engineer and athlete of the [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]].

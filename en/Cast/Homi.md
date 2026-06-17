@@ -1,0 +1,1 @@
+﻿Homi is an ex-[[en/Glossary/Quester|questor]] of [[en/Cast/Groups/Disbanded/SpaceFox|SpaceFox]], as well as the founder.

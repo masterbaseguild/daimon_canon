@@ -1,0 +1,1 @@
+Il pianeta Cyria è un pianeta abitabile situato nel [[it/Map/Alpha Sphere/Sophia System/Sophia System|sistema Sophia]].

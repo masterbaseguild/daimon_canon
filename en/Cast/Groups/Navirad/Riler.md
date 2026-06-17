@@ -1,0 +1,1 @@
+﻿Riler is an ex-[[en/Glossary/Quester|questor]] of [[en/Cast/Groups/Navirad/Navirad|Navirad]].

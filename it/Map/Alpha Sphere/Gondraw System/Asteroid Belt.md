@@ -1,0 +1,1 @@
+La fascia di asteroidi gondrana è un agglomerato di corpi celesti situato nel [[it/Map/Alpha Sphere/Gondraw System/Gondraw System|sistema Gondraw]].

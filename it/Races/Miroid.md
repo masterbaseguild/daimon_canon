@@ -1,0 +1,1 @@
+I miroidi sono una razza orchesca nativa del [[it/Map/Beta Sphere/Radium System/Planet Syteel|pianeta Syteel]].

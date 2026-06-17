@@ -1,0 +1,1 @@
+Namel è una cara amica di Millie, nata nel pianeta (nome del pianeta dei furry) i FrankyRose in seguito ad una sua richiesta di aiuto la aiutarono a fuggire dalla Prigione di Massima sicurezza situata fra i 2 satelliti in orbita a (nome del pianeta dei furry).

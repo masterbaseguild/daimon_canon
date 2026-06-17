@@ -1,0 +1,1 @@
+﻿The Nexus was a [[en/Glossary/Guild|guild]] [[en/Map/Alpha Sphere/Nobi System/Planet Iphiridia/Planet Iphiridia|ifiridiana]].

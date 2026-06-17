@@ -1,0 +1,1 @@
+Ex membro dell'Arpeggio, ha dato le dimissioni recentemente. Ogni tanto, fa visita alla MasterBase.

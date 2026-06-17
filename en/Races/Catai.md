@@ -1,0 +1,1 @@
+﻿Cathayans are an orc race native to [[en/Map/Alpha Sphere/Turma System/Planet Cathum|Planet Cathum]].

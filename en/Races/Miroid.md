@@ -1,0 +1,1 @@
+﻿Myroids are an orc race native to [[en/Map/Beta Sphere/Radium System/Planet Syteel|Planet Syteel]].

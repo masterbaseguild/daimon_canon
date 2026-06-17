@@ -1,0 +1,1 @@
+﻿The planet Sadrium is a habitable planet located in the [[en/Map/Gamma Sphere/Sadre System/Sadre System|sadrial system]].

@@ -1,0 +1,1 @@
+﻿Adventurers' guild that aided MasterBase during Season Zero

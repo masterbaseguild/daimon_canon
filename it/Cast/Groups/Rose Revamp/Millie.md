@@ -1,0 +1,1 @@
+Millie è un membro della [[it/Cast/Groups/Rose Revamp/Rose Revamp|Rose Revamp]].

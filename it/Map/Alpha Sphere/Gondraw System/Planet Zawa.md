@@ -1,0 +1,1 @@
+Il pianeta Zawa è un pianeta abitabile situato nel [[it/Map/Alpha Sphere/Gondraw System/Gondraw System|sistema Gondraw]].

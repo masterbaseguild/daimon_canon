@@ -1,0 +1,1 @@
+﻿Lomba is a [[en/Glossary/Quester|questor]] athlete of the [[en/Cast/Groups/Blue Owls/Blue Owls|Blue Owls]].

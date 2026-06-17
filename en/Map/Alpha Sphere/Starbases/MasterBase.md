@@ -1,0 +1,1 @@
+﻿The MasterBase is the [[en/Glossary/StarBase|starbase]] owned by the homonymous [[en/Cast/Groups/MasterBase/MasterBase|guild]], manufactured [[en/Map/Alpha Sphere/Talos System/Planet Aura/Planet Aura|aural]] and located in [[en/Map/Alpha Sphere/Alpha Sphere|Alpha Sphere]].

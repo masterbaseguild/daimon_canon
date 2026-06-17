@@ -1,0 +1,1 @@
+Ingiustamente accusato della distruzione della MasterBase

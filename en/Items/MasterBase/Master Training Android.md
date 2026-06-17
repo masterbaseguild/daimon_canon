@@ -1,0 +1,1 @@
+﻿training dummies capable of fighting themselves, and imitating the attack patterns of numerous types of fighters, via the database connected to the ARC system.

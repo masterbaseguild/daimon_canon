@@ -1,0 +1,1 @@
+﻿Adverns are a human race native to [[en/Map/Beta Sphere/Radium System/Planet Syteel|Planet Syteel]].

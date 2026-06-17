@@ -1,0 +1,1 @@
+﻿A former member of MasterBase, he took part in numerous operations. Shadow's cousin.

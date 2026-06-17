@@ -1,0 +1,1 @@
+Un master è un [[it/Glossary/Quester|quester]] membro della [[it/Glossary/Guild|gilda]] [[it/Cast/Groups/MasterBase/MasterBase|MasterBase]].

@@ -1,0 +1,1 @@
+I ciriani sono una razza elfica nativa del [[it/Map/Alpha Sphere/Sophia System/Planet Cyria|pianeta Cyria]].

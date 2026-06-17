@@ -1,0 +1,1 @@
+﻿Aurals are a human race native to [[en/Map/Alpha Sphere/Talos System/Planet Aura/Planet Aura|planet Aura]].

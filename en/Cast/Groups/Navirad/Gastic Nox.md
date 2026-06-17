@@ -1,0 +1,1 @@
+﻿Gastic Nox is an ex-[[en/Glossary/Quester|questor]] of [[en/Cast/Groups/Navirad/Navirad|Navirad]]. He was part of [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]] for a while.

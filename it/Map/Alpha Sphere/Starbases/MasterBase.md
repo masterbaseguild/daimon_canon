@@ -1,0 +1,1 @@
+La MasterBase è la [[it/Glossary/StarBase|starbase]] di proprietà dell'omonima [[it/Cast/Groups/MasterBase/MasterBase|gilda]], di manifattura [[it/Map/Alpha Sphere/Talos System/Planet Aura/Planet Aura|aurale]] e situata nella [[it/Map/Alpha Sphere/Alpha Sphere|sfera Alpha]].

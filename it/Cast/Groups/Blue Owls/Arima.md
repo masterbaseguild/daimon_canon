@@ -1,0 +1,1 @@
+Ospite della MasterBase.

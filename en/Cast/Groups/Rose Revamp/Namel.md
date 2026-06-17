@@ -1,0 +1,1 @@
+﻿Namel is a dear friend of Millie, born on the planet (name of the furry planet). Following her request for help, FrankyRose helped her escape from the maximum security prison located between the 2 satellites orbiting (name of the furry planet).

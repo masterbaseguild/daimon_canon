@@ -1,0 +1,1 @@
+﻿Damashi is a former [[en/Glossary/Quester|questor]] of the [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]], and a former member of the [[en/Cast/Groups/Disbanded/Anark|Anark]].

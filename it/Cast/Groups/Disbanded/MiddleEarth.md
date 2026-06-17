@@ -1,0 +1,1 @@
+MiddleEarth è stata una [[it/Glossary/Guild|gilda]] della [[it/Map/Alpha Sphere/Alpha Sphere|sfera Alpha]].

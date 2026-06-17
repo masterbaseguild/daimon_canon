@@ -1,0 +1,1 @@
+Il pianeta Sadrium è un pianeta abitabile situato nel [[it/Map/Gamma Sphere/Sadre System/Sadre System|sistema sadriale]].

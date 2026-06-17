@@ -1,0 +1,1 @@
+﻿Wisla is an ex-[[en/Glossary/Quester|questor]] of [[en/Cast/Groups/Disbanded/SpaceFox|SpaceFox]].

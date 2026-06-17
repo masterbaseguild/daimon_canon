@@ -1,0 +1,1 @@
+﻿The Gondran asteroid belt is a cluster of celestial bodies located in the [[en/Map/Alpha Sphere/Gondraw System/Gondraw System|Gondraw system]].

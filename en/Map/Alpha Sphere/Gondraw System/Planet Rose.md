@@ -1,0 +1,1 @@
+﻿Planet Rose is a habitable planet located in [[en/Map/Alpha Sphere/Gondraw System/Gondraw System|Gondraw system]].

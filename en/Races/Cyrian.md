@@ -1,0 +1,1 @@
+﻿Cyrians are an elven race native to [[en/Map/Alpha Sphere/Sophia System/Planet Cyria|Planet Cyria]].

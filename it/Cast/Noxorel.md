@@ -1,0 +1,1 @@
+Ex membro della MasterBase, prese parte a numerose operazioni. Cugino di Shadow.

@@ -1,0 +1,1 @@
+I aurali sono una razza umana nativa del [[it/Map/Alpha Sphere/Talos System/Planet Aura/Planet Aura|pianeta Aura]].

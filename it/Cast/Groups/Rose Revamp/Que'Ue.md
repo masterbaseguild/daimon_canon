@@ -1,0 +1,1 @@
+Spada vivente di Nekta

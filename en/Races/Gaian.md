@@ -1,0 +1,1 @@
+﻿The Gaiots are a Dryadic race native to [[en/Map/Alpha Sphere/Pyreus System/Planet Gaia|Planet Gaia]].

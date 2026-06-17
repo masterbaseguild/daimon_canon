@@ -1,0 +1,1 @@
+﻿Honda Lect is a [[en/Glossary/Quester|questor]] of [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]]. She is [[en/Cast/Groups/MasterBase/Entity|Entity]]'s cousin.
