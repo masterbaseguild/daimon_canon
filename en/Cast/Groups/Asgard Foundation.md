@@ -1,4 +1,4 @@
-﻿---
+---
 parent: Cast/Groups/Major-Factions
 parentDisplay: Major Factions
 ---
@@ -45,6 +45,3 @@ Today the Asgard Foundation occupies the void left by Olympus:
 
 > ### ── Archive Note ──
 > *«Asgard did not win by destroying Olympus. He won by convincing the AUN that if there were going to be bosses, they might as well be the ones who fill out the forms correctly. They gave tyranny a bureaucratic face and called it justice.”* — Anonymous comment recovered from the data logs of an orbital station.
-
----
-*Question to guide the conversation:* Having achieved a position of total dominance over Aura thanks to the protection of the AUN, do you think Asgard is itself becoming the tyranny it claimed to oppose under Haude's command, or is there a faction within Asgard seeking to maintain the original values ​​of the founding veterans?

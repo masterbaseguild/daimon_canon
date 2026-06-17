@@ -1,4 +1,4 @@
-﻿---
+---
 parent: Cast/Personnel-Registry
 parentDisplay: Personnel Register
 ---
@@ -43,6 +43,3 @@ Disti is not just a fighter, but the beating heart of the MasterBase workshop:
 * **Equipment:** Master Crossbow (primary weapon), advanced engineering kit.
 * **Occupation:** Chief Engineer, Marksman, Leader of the Arken Guard.
 * **Parameters (Level 1-5):** *Waiting for operational calibration.*
-
----
-*Question to guide the conversation:* Given his past as Aledge's right-hand man during the SpaceFox war, do you think Disti still feels the weight of the losses he suffered during that time, or does his engineering rigor allow him to completely separate the trauma of the past from his current job at MasterBase?
