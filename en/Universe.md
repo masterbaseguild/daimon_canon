@@ -1,12 +1,12 @@
-﻿# [[en/Glossary/Glossary|Glossary]]
+# [[en/Glossary/Glossary|Glossary]]
 
-# [[en/Items/Items|Objects]]
+# [[en/Items/Items|Items]]
 
 # [[en/Timeline/Timeline|Timeline]]
 
 # [[en/Map/Map|Map]]
 
-# [[en/Cast/Cast|Personages]]
+# [[en/Cast/Cast|Cast]]
 
 # [[en/Races/Races|Races]]
 

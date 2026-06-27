@@ -1,4 +1,8 @@
-﻿# Elven races
+---
+parent: Universe
+parentDisplay: Universe
+---
+# Elven races
 
 - [[en/Races/Aelfirth|Aelfirth]]
 - [[en/Races/Cyrian|Ciriani]]

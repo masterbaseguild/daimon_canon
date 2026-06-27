@@ -1,4 +1,8 @@
-﻿# Conjuring
+---
+parent: Universe
+parentDisplay: Universe
+---
+# Conjuring
 _2026 - MasterBase, Entity_
 
 - [[en/player/MasterBase Intro 2025 Demo|MasterBase Intro 2025 Demo]]

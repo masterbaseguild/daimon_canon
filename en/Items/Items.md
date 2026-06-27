@@ -1,4 +1,8 @@
-﻿# M
+---
+parent: Universe
+parentDisplay: Universe
+---
+# M
 
 - [[en/Items/Magic School of Absorption|Magic School of Absorption]]
 - [[en/Items/Magic School of Fire|Magic School of Fire]]

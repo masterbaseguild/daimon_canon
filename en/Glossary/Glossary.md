@@ -1,4 +1,8 @@
-﻿# 0-9
+---
+parent: Universe
+parentDisplay: Universe
+---
+# 0-9
 
 - [[en/Glossary/8 Founding Masters|8 founding masters]]
 

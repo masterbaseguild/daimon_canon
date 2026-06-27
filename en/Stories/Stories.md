@@ -1,4 +1,8 @@
-﻿- # [[en/Stories/Palladium|Palladium]]
+---
+parent: Universe
+parentDisplay: Universe
+---
+- # [[en/Stories/Palladium|Palladium]]
 
 - # [[en/Stories/Breakthrough|Breakthroughs]]
 - # [[en/Stories/Determination|Determination]]

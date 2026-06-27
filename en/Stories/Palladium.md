@@ -6,4 +6,4 @@ Summoned by their patrons, the MasterBase, a renowned guild of space adventurers
 - [[en/reader/palladium_02|#02 - Better a True Enemy...]]
 - [[en/reader/palladium_03|#03 - Proof of Pure Devotion]]
 - [[en/reader/palladium_04|#04 - Respect your Elders]]
-- #05 - Ambush! _(releasing June 21st)_
+- #05 - Ambush! _(releasing July 5th)_

@@ -1,4 +1,9 @@
-﻿# Groups
+---
+parent: Universe
+parentDisplay: Universe
+---
+
+# Groups
 
 - [[en/Cast/Groups/Asgard Foundation|Asgard Foundation]]
 - [[en/Cast/Groups/Aura United Nations|United Nations Aural]]
