@@ -7,4 +7,5 @@ Richiamata dai suoi mecenati, la MasterBase, una rinomata gilda di avventurieri 
 - [[it/reader/palladium_02|#02 - Meglio un Vero Nemico...]]
 - [[it/reader/palladium_03|#03 - Dimostrazione di Totale Devozione]]
 - [[it/reader/palladium_04|#04 - Rispetta i tuoi Mentori]]
-- #05 - Imboscata! _(fuori il 5 Luglio)_
+- [[it/reader/palladium_05|#05 - Imboscata!]]
+- #06 - Una sana dose di fortuna _(fuori il 2 Agosto)_

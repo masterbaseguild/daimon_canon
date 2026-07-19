@@ -6,4 +6,5 @@ Summoned by their patrons, the MasterBase, a renowned guild of space adventurers
 - [[en/reader/palladium_02|#02 - Better a True Enemy...]]
 - [[en/reader/palladium_03|#03 - Proof of Pure Devotion]]
 - [[en/reader/palladium_04|#04 - Respect your Elders]]
-- #05 - Ambush! _(releasing July 5th)_
+- [[it/reader/palladium_05|#05 - Ambush!]]
+- #06 - A Healthy Dose of Luck _(releasing August 2nd)_
