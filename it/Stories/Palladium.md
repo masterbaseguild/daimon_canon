@@ -8,5 +8,5 @@ Richiamata dai suoi mecenati, la MasterBase, una rinomata gilda di avventurieri 
 - [[it/reader/palladium_03|#03 - Dimostrazione di Totale Devozione]]
 - [[it/reader/palladium_04|#04 - Rispetta i tuoi Mentori]]
 - [[it/reader/palladium_05|#05 - Imboscata!]]
-- [[it/reader/palladium_06|#06 - Una sana dose di fortuna]]
+- [[it/reader/palladium_06|#06 - Una Sana Dose di Fortuna]]
 - #07 - Primo Contatto _(fuori il 9 Agosto)_
