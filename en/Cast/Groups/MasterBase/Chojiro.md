@@ -1,8 +1,30 @@
-﻿---
-parent: Cast/Guests/MasterBase
+---
+parent: Cast/Groups/MasterBase
 parentDisplay: MasterBase
 ---
 # Chojiro
+
+# NEW
+
+- humanoid race, born on a planet to be decided, must not be aura
+- currently Olympus quester
+- formerly SpaceFox and MasterBase
+- one of the first questers to leave SpaceFox and join the MasterBase, later followed by Aledge (one of the SpaceFox co-founders) and many others
+- has always loved researching various fields (medicine, magic, history, archeology), after arriving on planet Aura for the MasterCon campaign with the MasterBase (where he played a key part) he fell in love with Aural (and especially Olympus) culture, and after the failure of the campaign, he requested to stay on Aura. Entity (the MasterBase leader) agreed, and he joined the Olympus Foundation in order to keep studying
+- he often shares results of the respective researches with the Master archivists living in the MasterHall, who moved there a couple years later, thus repopulating the old colony which was abandoned after the MasterCon disaster.
+- battle healer and medic while working for SpaceFox and MasterBase, drops the practice of medicine after joining the Olympus in order to have more time for historical studies, and for that reason, plus wanting to study the Olympus combat style from a closer point of view, he embraces a standard Olympus frontline+diving style
+- Despite Chojiro studying lots of magic arts, he isn't really gifted for practical use, and only goes as far as using enchanted weapons
+- Old combat style: engage disruptor, lurking in the allied backlines and neutralizing any diver, while using enchanted daggers and weapons to keep the damage dealers healthy
+- New combat style: standard frontline and diving combat, high mobility dual wielding fighter
+- Chojiro is currently studying the evolution of warfare, from the early Aura combat styles to the Olympus/Asgard styles (tightly related, since the Asgard was born from the Olympus itself), and to the derived specific styles of the vassal guilds of the two foundations (in particular the MasterBase, a style he knows well). To further improve his knowledge of the Olympus style, he also dropped his backline defense style and embraced the standard, high mobility frontline and diving style of Olympus combatants
+- Relationships:
+	- strong friendship with Aledge, with whom he fought in the great guild war, and who was his former leader.
+	- strong friendship with Entity, whom he helped growing the MasterBase. albeit skeptical of his most recent leadership choices, he has great respect for him
+	- strong friendship with Finix, another SpaceFox comrade turned master. they have a banter heavy friendship
+
+---
+
+# OLD
 
 **Chojiro** is an expert [[en/Glossary/Quester|questor]] currently working for [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]], with a past linked to **SpaceFox**. His figure is a unique example of operational dualism: a healer devoted to life who, in the field, transforms into a silent predator.
 

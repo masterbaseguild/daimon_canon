@@ -1,7 +1,28 @@
-﻿---
+---
 parent: Cast/Groups/MasterBase/MasterBase
 parentDisplay: MasterBase
 ---
+
+# NEW
+
+- aural
+- currently MasterBase quester
+- debuted as quester by taking part in the Iphiridia campaign with Kurymi; they met Gastic Nox and Black Ace, and founded the Navirad guild together, building their headquarters in the Iphiridian highlands
+- after the disaster, the guild went back to Aura and there built the Arpeggio StarBase, leaving the planet and beginning a life of wandering questing work
+- being an ambitious quester, winter was unhappy with the scale of the guild, and when in 2020 he met Beat, Finix and Ale during a mission, he was fascinated by the goals of the MasterBase, so he decided to join them, much to the disdain of his comrades
+- Aboard the MasterBase he improved significantly his firebending skills, becoming one of the most promising recruits at the time
+- In the following years he reconnected with his former guild mates, and managed to bring along many of them, to the point where the Arpeggio went on to become an official vassal guild of the MasterBase
+- he became known as one of the most loyal masters, almost bleeding into fanaticism, and was notorious for his insane discipline both in following orders and sustaining intense training regimes
+- he used to be friends with most of the masters who, after causing the uprising, would be exiled and go on to found the Blue Owls. He reportedly was quite surprised by their choices, and immediately distanced himself from them
+- he contributed to most colonization attempts on iphiridia, and was a key element of the building committee, together with Shane, Disti and Davrin.
+- combat style: fire bending in all shapes and forms, both melee and ranged; high martial arts skills, which he uses to augment his melee firebending capabilities
+- he practices the (unnamed) firebending style, and his favorite moves and techniques are firepunch, propulsion, ignuke and heatwave. He used to abuse fireball, being playfully called out often by his friends because of it, but recently left it behind in favor of more reliable mid range techniques (such as heatwave and ignuke).
+- he took part to the second and third Master League, waving the banner of the White Demons during both tournaments. He also helped build most of the arenas the tournaments were disputed on.
+
+---
+
+# OLD
+
 Winter is a [[en/Glossary/Quester|questor]] of the [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]], within which he operates as an athlete and fighting magician, and a member of the [[en/Cast/Groups/Blue Owls/Blue Owls|Blue Owls]]. A former founding member of Navirad, he is widely recognized as the best pyromancer in the entire guild.
 
 # Physical Characteristics and Appearance
