@@ -6,7 +6,7 @@ parentDisplay: MasterBase
 
 # NEW
 
-- humanoid race, born on a planet to be decided, must not be aura
+- male of a humanoid race, born on a planet to be decided, must not be aura
 - currently Olympus quester
 - formerly SpaceFox and MasterBase
 - one of the first questers to leave SpaceFox and join the MasterBase, later followed by Aledge (one of the SpaceFox co-founders) and many others

@@ -5,7 +5,7 @@ parentDisplay: MasterBase
 
 # NEW
 
-- aural
+- male aural
 - currently MasterBase quester
 - debuted as quester by taking part in the Iphiridia campaign with Kurymi; they met Gastic Nox and Black Ace, and founded the Navirad guild together, building their headquarters in the Iphiridian highlands
 - after the disaster, the guild went back to Aura and there built the Arpeggio StarBase, leaving the planet and beginning a life of wandering questing work

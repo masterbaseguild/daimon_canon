@@ -5,7 +5,7 @@ parentDisplay: MasterBase
 
 # NEW
 
-- aural, from the south-central regions (name to be decided)
+- male aural, from the south-central regions (name to be decided)
 - currently MasterBase quester
 - fought as a vigilante in the suburbs of his hometown since a very young age
 - moved to Hudel (on planet Cathum) to join the quester academy of the Kotel guild, but was disappointed with the training level reserved for his age

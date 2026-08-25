@@ -1,7 +1,25 @@
-﻿---
-parent: Cast/Personnel-Registry
-parentDisplay: Personnel Register
 ---
+parent: Cast/Groups/MasterBase
+parentDisplay: MasterBase
+---
+
+# NEW
+
+- female of a humanoid race, born on a planet to be decided
+- currently MasterBase quester
+- the people in her home planet have developed the innate ability to shapeshift into huge birds, with enchantable feathers. her specific clan has specialized in fire magic, thus making their alternate form essentially a phoenix form.
+- she leaves the village because of boredom and starts wandering, becoming a quester
+- she joins spacefox, but mantains a selective approach and only works when she really wants to, preferring to spend her time wandering the ship and bothering everyone else
+- despite that she unexpectedly bonds with Aledge, despite his strictness at the time, because he understands her personality and knows that she is more proficient when choosing her battles
+- after spacefox falls, she follows aledge in joining the MasterBase, where she has some issues keeping the same lifestyle as before (because the MasterBase higher ups want her to be productive)
+- 
+- in the free time, she sings on the stage of the Masteria
+- used to fight with a machine gun because "it was more fun", pivoted back to using her phoenix form after complaints from the rest of the guild members
+
+---
+
+# OLD
+
 # Finix
 
 **Finix** is a Questor of **MasterBase** who embodies a rare duality: deadly precision on the battlefield and a deep artistic talent that makes her the musical face of the guild. Ex-member of the **SpaceFox** guild, he found his new home and professional balance in the MasterBase.
