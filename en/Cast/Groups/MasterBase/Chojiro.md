@@ -22,6 +22,8 @@ parentDisplay: MasterBase
 	- strong friendship with Entity, whom he helped growing the MasterBase. albeit skeptical of his most recent leadership choices, he has great respect for him
 	- strong friendship with Finix, another SpaceFox comrade turned master. they have a banter heavy friendship
 
+![[Workspace/Spoilers/Archive/Cast/Groups/MasterBase/Chojiro|Chojiro]]
+
 ---
 
 # OLD
