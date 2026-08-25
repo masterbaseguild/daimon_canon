@@ -11,12 +11,14 @@ parentDisplay: MasterBase
 - she leaves the village because of boredom and starts wandering, becoming a quester
 - she joins spacefox, but mantains a selective approach and only works when she really wants to, preferring to spend her time wandering the ship and bothering everyone else
 - despite that she unexpectedly bonds with Aledge, despite his strictness at the time, because he understands her personality and knows that she is more proficient when choosing her battles
-- after spacefox falls, she follows aledge in joining the MasterBase, where she has some issues keeping the same lifestyle as before (because the MasterBase higher ups want her to be productive)
-- 
-- in the free time, she sings on the stage of the Masteria
-- used to fight with a machine gun because "it was more fun", pivoted back to using her phoenix form after complaints from the rest of the guild members
+- after spacefox falls, she wanders for a couple years, then aledge invites her to join the MasterBase, where she has some issues keeping the same lifestyle as before (because the MasterBase higher ups want her to be productive)
+- when she first joined the MasterBase, she fell in love with a specific model of machinegun designed by Disti, and for a while she completely abandoned her Phoenix form so that she could instead use that, because "it was just so much fun". She then pivoted back to using her phoenix form after complaints from the rest of the guild members, who were mad at her careless way of using the weapon
+- while in the MasterBase, she expands her arsenal with airbending magic, for turning her feathers into air bombs, which enhance her mobility, and organic magic, for allowing her feathers to emit a healing aura, which speeds up the natural cellular regeneration of nearby combatants
+- in the free time, she sings on the stage of the Masteria, oftentimes lending her voice to Aledge's compositions
 
 ---
+
+![[Spoilers/Cast/Groups/MasterBase/Finix|Finix]]
 
 # OLD
 
