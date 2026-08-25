@@ -12,7 +12,7 @@ La **Fondazione Asgard** è l'organizzazione multiattività più potente e influ
 
 La genesi di Asgard è segnata dal rifiuto della deriva autoritaria imposta dalla Fondazione Olympus:
 
-*   **L'Era Haude:** Quando [[Haude|Haude]] assunse il controllo assoluto della Fondazione Olympus, imponendo metodi di gestione brutali e una visione egemonica, un gruppo di veterani dell'organizzazione scelse di dimettersi in aperta protesta.
+*   **L'Era Haude:** Quando [[it/Cast/Groups/Olympus Foundation/Haude|Haude]] assunse il controllo assoluto della Fondazione Olympus, imponendo metodi di gestione brutali e una visione egemonica, un gruppo di veterani dell'organizzazione scelse di dimettersi in aperta protesta.
 *   **La Scissione:** Questi veterani, portando con sé una conoscenza profonda delle tattiche e delle risorse di Olympus, fondarono la Asgard. L'obiettivo primario era il contrasto sistematico alle attività di Haude e il ripristino di un modello di gilda più "integrato" nel sistema AUN.
 
 ---
