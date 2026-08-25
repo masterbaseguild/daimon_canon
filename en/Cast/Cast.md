@@ -5,7 +5,7 @@ parentDisplay: Universe
 
 # Groups
 
-- [[en/Cast/Groups/Asgard Foundation|Asgard Foundation]]
+- [[Public/en/Cast/Groups/Asgard Foundation/Asgard Foundation|Asgard Foundation]]
 - [[en/Cast/Groups/Aura United Nations|United Nations Aural]]
 - [[en/Cast/Groups/Franky Family|Franky family]]
 - [[en/Cast/Groups/Blue Owls/Blue Owls|Blue Owls]]

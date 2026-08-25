@@ -4,7 +4,7 @@ parentDisplay: Location
 ---
 # Asgard Headquarters
 
-The **Asgard Headquarters** is the impressive architectural and operational complex that serves as the main headquarters of the [[en/Cast/Groups/Asgard Foundation|Asgard Foundation]]. Strategically located on the planet **Aura**, within the [[en/Map/Alpha Sphere/Talos System/Talos System|Talos system]], the site represents the beating heart of the Foundation's scientific, diplomatic and strategic activities.
+The **Asgard Headquarters** is the impressive architectural and operational complex that serves as the main headquarters of the[[Public/en/Cast/Groups/Asgard Foundation/Asgard Foundation|Asgard Foundation]]]. Strategically located on the planet **Aura**, within the [[en/Map/Alpha Sphere/Talos System/Talos System|Talos system]], the site represents the beating heart of the Foundation's scientific, diplomatic and strategic activities.
 
 ---
 

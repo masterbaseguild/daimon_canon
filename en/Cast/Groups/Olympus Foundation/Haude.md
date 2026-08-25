@@ -1,7 +1,16 @@
-﻿---
-parent: Cast/Personnel-Registry
-parentDisplay: Personnel Register
 ---
+parent: Cast/Groups/Olympus Foundation
+parentDisplay: Olympus Foundation
+---
+# NEW
+
+
+![[Spoilers/Cast/Groups/Olympus Foundation/Haude|Haude]]
+
+---
+
+# OLD
+
 # Haude
 
 **Haude** is a complex and controversial figure, once the undisputed leader of the **Olympus Foundation** and now a soul seeking redemption. A founding member of the **5 Magister** of Olympus, his existence has been marked by a brutal transition between a parasitic synthetic nature and a new, fragile humanity.

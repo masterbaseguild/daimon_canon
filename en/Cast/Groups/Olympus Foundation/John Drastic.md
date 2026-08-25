@@ -19,7 +19,7 @@ John Drastic is a high-ranking operative of the Olympus Foundation, within which
 
 ### Story Arcs and Biography
 * **The Entity Bond:** John is [[en/Cast/Groups/MasterBase/Entity|Entity]]'s childhood friend and longtime mentor. He was a key figure in the growth of the latter, influencing its strategic approach and ambitions in the world of Questor.
-* **Mediation for the Anark (2017):** In 2017, when the [[en/Cast/Groups/Disbanded/Anark|Anark]] (Entity and Theo's old guild) accidentally becomes involved in a dangerous military skirmish between Olympus and the [[en/Cast/Groups/Asgard Foundation|Asgard]], John Drastic promptly intervenes behind the scenes. To protect his former student and his companions from diplomatic repercussions, John offers the guild to put in a good word with the foundation's high command. This crucial political endorsement, combined with Gavil's on-the-ground proposal, definitively clears the way for Anark's entry into Olympus' official sponsorship program.
+* **Mediation for the Anark (2017):** In 2017, when the [[en/Cast/Groups/Disbanded/Anark|Anark]] (Entity and Theo's old guild) accidentally becomes involved in a dangerous military skirmish between Olympus and the[[Public/en/Cast/Groups/Asgard Foundation/Asgard Foundation|Asgard]]], John Drastic promptly intervenes behind the scenes. To protect his former student and his companions from diplomatic repercussions, John offers the guild to put in a good word with the foundation's high command. This crucial political endorsement, combined with Gavil's on-the-ground proposal, definitively clears the way for Anark's entry into Olympus' official sponsorship program.
 
 ### Items to Define
 * **Personality:** To be defined.

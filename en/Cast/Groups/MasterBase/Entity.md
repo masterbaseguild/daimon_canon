@@ -1,9 +1,18 @@
-﻿---
+---
 trackUrl: OverMaster
 trackDisplay: OverMaster
 parent: Cast/Groups/MasterBase/MasterBase
 parentDisplay: MasterBase
 ---
+# NEW
+
+
+![[Spoilers/Cast/Groups/MasterBase/Entity|Entity]]
+
+---
+
+# OLD
+
 Entity is a [[en/Glossary/Quester|questor]] of the [[en/Races/Aural|Aural race]], engineer, athlete and [[en/Glossary/8 Founding Masters|founding leader]] of [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]]. He previously played in the [[en/Cast/Groups/Disbanded/Anark|Anark]] faction. He is the brother of [[en/Cast/Groups/MasterBase/Wall|Wall]] (Cri) and the cousin of [[en/Cast/Groups/MasterBase/Honda|Honda]].
 
 # Physical Characteristics

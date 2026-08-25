@@ -4,7 +4,7 @@ parentDisplay: Global Wars
 ---
 # Downfall of Olympus
 
-The **Downfall of Olympus** defines one of the most dramatic and crucial eras in the geopolitics of the Alpha Sphere. Born from the discovery of the cynical double game of the Grand Magister **Haude**, the event marked the end of the historic [[en/Cast/Groups/Olympus Foundation/Olympus Foundation|Olympus Foundation]] and redesigned the axis of planetary power on Aura through a ruthless opportunistic operation led by the alliance between the [[en/Cast/Groups/Asgard Foundation|Asgard]] and the [[en/Cast/Groups/Xadrium Corporation/Xadrium Corporation|Xadrium Corporation]].
+The **Downfall of Olympus** defines one of the most dramatic and crucial eras in the geopolitics of the Alpha Sphere. Born from the discovery of the cynical double game of the Grand Magister **Haude**, the event marked the end of the historic [[en/Cast/Groups/Olympus Foundation/Olympus Foundation|Olympus Foundation]] and redesigned the axis of planetary power on Aura through a ruthless opportunistic operation led by the alliance between the[[Public/en/Cast/Groups/Asgard Foundation/Asgard Foundation|Asgard]]] and the [[en/Cast/Groups/Xadrium Corporation/Xadrium Corporation|Xadrium Corporation]].
 
 ---
 

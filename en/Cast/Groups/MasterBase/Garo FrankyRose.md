@@ -1,7 +1,16 @@
-﻿---
+---
 parent: Cast/Groups/MasterBase/MasterBase
 parentDisplay: MasterBase
 ---
+# NEW
+
+
+![[Spoilers/Cast/Groups/MasterBase/Garo FrankyRose|Garo FrankyRose]]
+
+---
+
+# OLD
+
 # GaroFrankyRose
 
 **Garo FrankyRose** is a [[en/Glossary/Quester|questor]] athlete, central figure among the **[[en/Glossary/8 Founding Masters|8 founding masters]]** of the [[en/Cast/Groups/MasterBase/MasterBase|MasterBase]]. Coming from the historic **Franky family** and the FrankyRose clan, Garo is an individual who has radically redefined his identity, going from a life as a criminal enforcer to a pillar of the new organization.

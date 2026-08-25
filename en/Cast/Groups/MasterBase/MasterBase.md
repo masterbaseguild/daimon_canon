@@ -20,7 +20,7 @@ The MasterBase is a [[en/Glossary/Guild|guild]] of the [[en/Map/Alpha Sphere/Alp
 - [[en/Cast/Groups/MasterBase/Bede|Bede]]
 - [[en/Cast/Groups/MasterBase/Beat|Beat]]
 - [[en/Cast/Groups/MasterBase/Bridget|Bridget]]
-- [[en/Cast/Groups/MasterBase/Chojiro|Chojiro]]
+-[[Public/en/Cast/Groups/Olympus Foundation/Chojiro|Chojiro]]]
 - [[en/Cast/Groups/MasterBase/Cimo|Cimo]]
 - [[en/Cast/Groups/MasterBase/Wall|Wall]]
 - [[en/Cast/Groups/MasterBase/Dave|Dave]]

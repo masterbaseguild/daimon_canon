@@ -44,7 +44,7 @@ Despite the heated discussions and initial panic, reason prevails. To unite agai
 While numerous Legacy parties preventively deploy to bases not yet attacked, the high command activates the **MasterBase secret services** to intercept enemy communications.
 
 In an attempt to discover the secret instigator of the Crimson Sphere, two major intelligence operations are launched:
-* **Aura Mission (Asgard):** The Masters infiltrate the planet Aura to verify the involvement of the [[en/Cast/Groups/Asgard Foundation|Asgard Foundation]]. Although trade links between Asgard and the Ki Sector are found, the investigation yields no hard evidence and the Masters return empty-handed.
+* **Aura Mission (Asgard):** The Masters infiltrate the planet Aura to verify the involvement of the[[Public/en/Cast/Groups/Asgard Foundation/Asgard Foundation|Asgard Foundation]]]. Although trade links between Asgard and the Ki Sector are found, the investigation yields no hard evidence and the Masters return empty-handed.
 * **Gondraw Mission (Franky Family):** The planet Gondraw is explored on the suspicion that the *Franky Family* is hunting down their deserters, but even in this case the outcome is inconclusive.
 
 ### 2. The Arpeggio Battle (The Gate Defense)
