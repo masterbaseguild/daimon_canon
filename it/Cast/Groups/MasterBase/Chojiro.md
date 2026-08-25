@@ -26,3 +26,5 @@ La capacità di Chojiro di alternare il ruolo di salvatore a quello di sicario r
 
 > ### ── Nota di Archivio ──
 > *«Chojiro è l'uomo a cui affidi la tua vita in infermeria, ma è anche l'ultimo volto che un assassino nemico vedrà prima di cadere. C'è una strana simmetria nel suo metodo: usa le mani per ricucire le ferite degli alleati e quelle stesse mani per infliggerne di fatali a chiunque osi avvicinarsi troppo al nostro cuore.»* — Valutazione del Comando Operativo.
+
+![[Spoilers/Cast/Groups/MasterBase/Chojiro]]
