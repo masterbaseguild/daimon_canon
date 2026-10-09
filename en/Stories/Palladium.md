@@ -8,4 +8,4 @@ Summoned by their patrons, the MasterBase, a renowned guild of space adventurers
 - [[en/reader/palladium_04|#04 - Respect your Elders]]
 - [[it/reader/palladium_05|#05 - Ambush!]]
 - [[it/reader/palladium_06|#06 - A Healthy Dose of Luck]]
-- #07 -  First Contact _(releasing August 9th)_
+- #07 -  First Contact _(coming soon!)_
